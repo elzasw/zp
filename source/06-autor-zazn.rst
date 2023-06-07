@@ -95,9 +95,10 @@ Ve vztahu k jednotce popisu se rozlišují dva základní účely použití
 archivních autoritních záznamů, resp. přístupových bodů:
 
 a) archivní autoritní záznam entity v roli původce (identifikace původce
-archiválií),
+   archiválií),
 
 b) archivní autoritní záznam entity v ostatních rolích.
+
 
 Pro popis entity v roli původce i v ostatních rolích se v IS CAM vytváří
 vždy jen jeden archivní autoritní záznam. Zásady popisu jsou stejné a
@@ -184,12 +185,13 @@ V IS CAM se proto:
 a) získávají záznamy, jsou-li již vytvořeny,
 
 b) doplňují existující záznamy, zejména pokud byly založeny pro potřebu
-role entity ve vztahu k jednotce popisu a neobsahují úplné informace
-potřebné pro popis původce,
+   role entity ve vztahu k jednotce popisu a neobsahují úplné informace
+   potřebné pro popis původce,
 
 c) vytváří nové záznamy, pokud nebyly nalezeny,
 
 d) vytváří vazby mezi archivními autoritními záznamy.
+
 
 Propojení s evidencí NAD a s popisy archiválií v digitální podobě jsou
 zajišťovány prostřednictvím identifikátoru záznamu IS CAM.
@@ -225,13 +227,14 @@ tvoří podle vlastních pravidel. K použití údajů o původci **viz kapitolu
 Záznamy o původcích mohou být použity:
 
 a) k popisu korporace, rodu (případně větve rodu), osoby nebo události
-jako entit v systému archivního popisu,
+   jako entit v systému archivního popisu,
 
 b) k vytváření a využívání přístupových bodů v archivním popisu,
 
 c) k dokumentování vztahů mezi různými původci dokumentů, vztahů mezi
-nimi a dokumenty či jinými zdroji jimi vytvořenými nebo vytvořenými o
-nich.
+   nimi a dokumenty či jinými zdroji jimi vytvořenými nebo vytvořenými o
+   nich.
+
 
 Záznam o původci je možno vázat na více než jeden archivní soubor, na
 části archivního souboru i na nižší jednotlivé jednotky popisu. Popis
@@ -420,33 +423,34 @@ Povinnost vyplnění
 Povinnost vyplnění prvků popisu (dále také jako PP) se uvádí v
 následujících variantách:
 
-**a) povinný PP** = vždy povinný prvek popisu entity; bez jeho vyplnění
-není archivní autoritní záznam v IS CAM validní; jde o povinnost
-vyplnění, která je ověřována technickými prostředky (aplikačním
-prostředím),
+a) **povinný PP** = vždy povinný prvek popisu entity; bez jeho vyplnění
+   není archivní autoritní záznam v IS CAM validní; jde o povinnost
+   vyplnění, která je ověřována technickými prostředky (aplikačním
+   prostředím),
 
-**b) povinný PP u původců, v ostatních případech doporučený** = povinný
-prvek popisu v případě, že daná entita je původcem archivního souboru či
-jeho části (**viz též kapitolu 6.2.1**); technické prostředky IS CAM
-neověřují, zda je prvek popisu vyplněn,
+b) **povinný PP u původců, v ostatních případech doporučený** = povinný
+   prvek popisu v případě, že daná entita je původcem archivního souboru či
+   jeho části (**viz též kapitolu 6.2.1**); technické prostředky IS CAM
+   neověřují, zda je prvek popisu vyplněn,
 
-**c) povinný PP za určitých okolností, v ostatních případech
-doporučený** = povinný prvek v případech, které stanovuje příslušná
-pasáž ZP, v ostatních případech je vyplnění doporučeno; technické
-prostředky IS CAM neověřují, zda je prvek popisu vyplněn,
+c) **povinný PP za určitých okolností, v ostatních případech
+   doporučený** = povinný prvek v případech, které stanovuje příslušná
+   pasáž ZP, v ostatních případech je vyplnění doporučeno; technické
+   prostředky IS CAM neověřují, zda je prvek popisu vyplněn,
 
-**d) povinný PP za určitých okolností, v ostatních případech se
-neuvádí** = povinný prvek, který se uvádí **pouze** v případech, které
-stanovuje příslušná pasáž ZP, za jiných okolností se nevyplňuje;
-technické prostředky IS CAM neověřují, zda je prvek popisu vyplněn,
+d) **povinný PP za určitých okolností, v ostatních případech se
+   neuvádí** = povinný prvek, který se uvádí **pouze** v případech, které
+   stanovuje příslušná pasáž ZP, za jiných okolností se nevyplňuje;
+   technické prostředky IS CAM neověřují, zda je prvek popisu vyplněn,
 
-**e) doporučený PP** = prvek popisu se vyplňuje vždy, pokud je příslušná
-informace známá či snadno zjistitelná ze zpracovávaných archiválií, z
-odborné literatury či z jiného věrohodného zdroje (internetové databáze
-apod. – viz též **přílohu č. 13**); technické prostředky IS CAM
-neověřují, zda je prvek popisu vyplněn,
+e) **doporučený PP** = prvek popisu se vyplňuje vždy, pokud je příslušná
+   informace známá či snadno zjistitelná ze zpracovávaných archiválií, z
+   odborné literatury či z jiného věrohodného zdroje (internetové databáze
+   apod. – viz též **přílohu č. 13**); technické prostředky IS CAM
+   neověřují, zda je prvek popisu vyplněn,
 
-**f) nepovinný PP** = prvek popisu není povinný.
+f) **nepovinný PP** = prvek popisu není povinný.
+
 
 Analogicky lze chápat i výrazy „\ *povinný/é“,* „\ *povinnost dle
 jednotlivých tříd“,* „\ *povinnost dle použití“*, *„doporučený/o“*,
@@ -538,9 +542,10 @@ Struktura označení
 a) hlavní část jména,
 
 b) vedlejší část jména – pouze u tříd „osoba/bytost“, „rod/rodina“ (u
-podtřídy „větev rodu“) a „korporace“,
+   podtřídy „větev rodu“) a „korporace“,
 
 c) titul/y před, titul/y za – pouze u třídy „osoba/bytost“.
+
 
 2. **Doplněk** (resp. jednotlivé typy doplňků).
 '''''''''''''''''''''''''''''''''''''''''''''''
@@ -598,17 +603,17 @@ Každá entita má pouze jedno preferované označení.
 
 Kritéria pro výběr preferovaného označení jsou:
 
-a) u entit uvedených **v příloze č. 14** preferované jméno podle této
-přílohy,
+a) u entit uvedených **v příloze č. 14** preferované jméno podle této přílohy,
 
 b) jméno, pod nímž je entita nejvíce známá, nebo
 
 c) jméno prokazatelně upřednostňované entitou – jen u podtřídy „fyzická
-osoba“, a tříd „rod/rodina“ a „korporace“, nebo
+   osoba“, a tříd „rod/rodina“ a „korporace“, nebo
 
 d) úřední jméno, nebo
 
 e) jméno po dobu existence entity nejdéle používané.
+
 
 Při rozhodování se postupuje v uvedeném pořadí a) → e), tj. volí se
 první platná varianta. Pokud není možné ani jednu z variant ověřit,
@@ -1102,21 +1107,22 @@ nebo předložka „\ *po*\ “ nejsou akceptovány. Výjimku představuje
 **8. Další technická specifika:**
 
 a) oddělovačem mezi dolní a horní mezí datací, příp. mezi datací a
-působností je spojovník,
+   působností je spojovník,
 
 b) před a za oddělovačem se nezapisují mezery, a to i když se vedle něj
-nalézá slovo či tečka (viz následující příklady).
+   nalézá slovo či tečka (viz následující příklady).
 
 c) jestliže je dolní nebo horní hranice (nebo obě) datace entity řešena
-rozsahem, používá se forma širší meze, tj. u „vzniku“, „začátku“,
-„narození“ dolní mez a u „zániku“, „konce“, „úmrtí“ horní mez. Například
-„\ **Václav** *(kníže a svatý : asi 907-asi 935)“*, přičemž u narození
-je v datačním poli v události vznik vložen odhad roku „\ *907*\ “ a u
-úmrtí je v datačním poli v události zánik zapsán odhad rozsahem
-„\ *929/935*\ “.
+   rozsahem, používá se forma širší meze, tj. u „vzniku“, „začátku“,
+   „narození“ dolní mez a u „zániku“, „konce“, „úmrtí“ horní mez. Například
+   „\ **Václav** *(kníže a svatý : asi 907-asi 935)“*, přičemž u narození
+   je v datačním poli v události vznik vložen odhad roku „\ *907*\ “ a u
+   úmrtí je v datačním poli v události zánik zapsán odhad rozsahem
+   „\ *929/935*\ “.
 
 d) údaj „\ *př. n. l.*\ “ se uvádí za každým záporným letopočtem, např.
-„\ **Cicero**\ *, Marcus Tullius (106 př. n. l.-43 př. n. l.)“*.
+   „\ **Cicero**\ *, Marcus Tullius (106 př. n. l.-43 př. n. l.)“*.
+
 
 Datace vs. chronologický doplněk
                                 
@@ -1209,8 +1215,6 @@ konci. Z těchto důvodů je třeba se pokud možno vyhýbat větným
 konstrukcím, a proto se používají slovní obraty tvořené přídavnými jmény
 či příčestími (viz též **přílohy č. 10 a 14**).
 
-| \*\*
-| \*\*
 
    **Příklad:**
 
@@ -1244,23 +1248,24 @@ informačním systému.
 Datace se využívá pro:
 
 a) datum vzniku / narození / začátku / začátku platnosti, datum zániku /
-úmrtí / konce / konce platnosti,
+   úmrtí / konce / konce platnosti,
 
 b) datum působnosti od / do, datum první / poslední písemné zmínky;
-tento typ datace se používá pouze tehdy, pokud nejsou známa data vzniku
-nebo zániku.
+   tento typ datace se používá pouze tehdy, pokud nejsou známa data vzniku
+   nebo zániku.
 
-1) V případě působnosti od/do se uvádí datum prvního/posledního výskytu
-entity, které bylo zjištěno z pramenů. Do poznámky lze pak uvést typ
-zdroje informace (např. „\ *odvozeno ze zápisu v obecní kronice*\ “,
-„\ *… z listiny Karla IV.*\ “, „\ *… z dědického soudního spisu*\ “).
+   1) V případě působnosti od/do se uvádí datum prvního/posledního výskytu
+      entity, které bylo zjištěno z pramenů. Do poznámky lze pak uvést typ
+      zdroje informace (např. „\ *odvozeno ze zápisu v obecní kronice*\ “,
+      „\ *… z listiny Karla IV.*\ “, „\ *… z dědického soudního spisu*\ “).
 
-2) Datace první/poslední písemné zmínky má charakter obecně známé
-informace (např. z odborné literatury).
+   2) Datace první/poslední písemné zmínky má charakter obecně známé
+      informace (např. z odborné literatury).
 
 c) dataci použití jména od/do,
 
 d) dataci u vztahů a událostí.
+
 
 U všech výše zmíněných použití datace reprezentuje přesné datum
 uvedených událostí. Není-li přesné datum známo, může se uvést
@@ -1278,10 +1283,11 @@ a) maximální přesnost času na sekundy,
 b) nejsou uváděna časová pásma, ani juliánský či gregoriánský kalendář,
 
 c) otevřený interval se u datací neuplatňuje, neboť datační prvek popisu
-je vždy oddělen pro dolní a horní mez; otevřený interval celé datace
-entity či jednotlivých částí je tak řešen nevyplněním některé z mezí,
+   je vždy oddělen pro dolní a horní mez; otevřený interval celé datace
+   entity či jednotlivých částí je tak řešen nevyplněním některé z mezí,
 
 d) poznámka k dataci se neuvádí.
+
 
 Události a vztahy
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -1303,11 +1309,12 @@ určený typ (např. vznik, zánik, studium, manželství).
 Událost je vytvořena pouze v případě, kdy je vyplněna alespoň jedna z
 následujících informací:
 
-**1. datace začátku/konce události** (nepovinný PP),
+1. **datace začátku/konce události** (nepovinný PP),
 
-**2. poznámka k události** (nepovinný PP),
+2. **poznámka k události** (nepovinný PP),
 
-**3. vztahy spojené s událostí** (nepovinné).
+3. **vztahy spojené s událostí** (nepovinné).
+
 
 Strukturu vztahu viz níže.
 
@@ -1355,6 +1362,7 @@ Rozlišují se dva typy vztahů:
 a) vztahy spojené s událostí,
 
 b) související entity (vztahy mimo událost).
+
 
 Vztahy s jinými entitami jsou definovány vždy specifikací vztahu a
 připojenou entitou.
@@ -1472,7 +1480,7 @@ Identifikátor INTERPI je doporučený identifikátor (viz odkaz v **příloze
 Struktura prvku je následující:
 
 a) zdroj externího identifikátoru – informace identifikující kód (výběr
-z číselníku),
+   z číselníku),
 
 b) hodnota externího identifikátoru,
 

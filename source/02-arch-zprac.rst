@@ -565,22 +565,23 @@ být původcem archiválií ve sbírce uložených, ale je původcem sbírky jak
 takové).
 
 a) Pokud sbírka vznikla mimo archiv, eviduje se jako její původce
-původní sběratel (např. Sbírka Rybičkova opisů městských privilegií;
-Sbírka Pohlova k dějinám železářství, Zbiroh; Sbírka genealogická Deymů
-ze Stříteže; Sbírka soudobé dokumentace – SETUZA Ústí nad Labem a mnohé
-další).
+   původní sběratel (např. Sbírka Rybičkova opisů městských privilegií;
+   Sbírka Pohlova k dějinám železářství, Zbiroh; Sbírka genealogická Deymů
+   ze Stříteže; Sbírka soudobé dokumentace – SETUZA Ústí nad Labem a mnohé
+   další).
 
 b) Pokud sbírka vznikla vlastní činností archivu (sbírky soudobé
-dokumentace, typářů, map a plánů, plakátů, patentů aj.), pak se eviduje
-jako původce archiv.
+   dokumentace, typářů, map a plánů, plakátů, patentů aj.), pak se eviduje
+   jako původce archiv.
 
 c) Výjimkou jsou sbírky uměle vytvořené archivem z archiválií, jejichž
-archivní fondy existují, ale z nějakého důvodu je část archiválií
-oddělena a zařazena do sbírky (Sbírky matrik, Sbírky druhopisů matrik,
-Sbírky listin k matrikám, Sbírky pozemkových knih). V takovém případě
-jako původce označíme entity, z jejichž registratur byly archiválie
-vyjmuty (např. v případě Sbírky matrik farní úřady, okresní úřady,
-standesamty apod.).
+   archivní fondy existují, ale z nějakého důvodu je část archiválií
+   oddělena a zařazena do sbírky (Sbírky matrik, Sbírky druhopisů matrik,
+   Sbírky listin k matrikám, Sbírky pozemkových knih). V takovém případě
+   jako původce označíme entity, z jejichž registratur byly archiválie
+   vyjmuty (např. v případě Sbírky matrik farní úřady, okresní úřady,
+   standesamty apod.).
+
 
 Pořádání archivního souboru
 -------------------------------
