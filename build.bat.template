@@ -1,0 +1,3 @@
+set "SPHINXBUILD=C:\Python311\Scripts\sphinx-build.exe"
+echo %SPHINXBUILD%
+call make.bat html
