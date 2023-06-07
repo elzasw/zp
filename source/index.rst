@@ -39,10 +39,24 @@ pokynu.
 .. toctree::
    :includehidden:
    :maxdepth: 2
-   :numbered: 3
    :glob:
    :caption: Přílohy
 
+   p01-priklady-jp.rst
+   p02-jazyky.rst
+   p03-matriky.rst
+   p04-peceti.rst
+   p05-veduty.rst
+   p06-ead.rst
+   p07-sprava-autorit.rst
+   p08-tridy-entit.rst
+   p09-peva.rst
+   p10-priklady-entity.rst
+   p11-jurisdikce.rst
+   p12-tax-kateg.rst
+   p13-zdroje-inf.rst
+   p14-puvodci.rst
+   p15-zkratky.rst 
    autori.rst
 
 
