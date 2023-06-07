@@ -750,7 +750,7 @@ korporace, která se v PREF uvádí, je nezbytné vytvořit vždy nový záznam
 (viz **kapitolu 9.2.1**).
 
 Preferované označení
-^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Hlavní část jména
 '''''''''''''''''
@@ -821,37 +821,38 @@ Použití cizojazyčné formy jména korporace jako preferovaného označení se
 též **kapitolu 6.3.5**):
 
 1. V případě souběžně užívaných cizojazyčných a českých jmen korporací v
-jazykově smíšených oblastech se použije cizojazyčné jméno u korporací
-zaniklých před rokem 1918, pokud bylo prokazatelně dobově preferováno
-(např. „\ **Bezirksamt Reichenberg**\ “ – úřad se nalézal v
-německojazyčné části země). České jméno („\ *Okresní úřad Liberec*\ “)
-se uvede jako variantní označení.
+   jazykově smíšených oblastech se použije cizojazyčné jméno u korporací
+   zaniklých před rokem 1918, pokud bylo prokazatelně dobově preferováno
+   (např. „\ **Bezirksamt Reichenberg**\ “ – úřad se nalézal v
+   německojazyčné části země). České jméno („\ *Okresní úřad Liberec*\ “)
+   se uvede jako variantní označení.
 
 2. V případě státních institucí v českých zemích, které fungovaly i po
-roce 1918, musí být uveden jako preferované označení vždy český název.
-Cizojazyčné jméno se uvede ve variantním označení.
+   roce 1918, musí být uveden jako preferované označení vždy český název.
+   Cizojazyčné jméno se uvede ve variantním označení.
 
 3. V případě nestátních korporací (např. samospráva, školství) v
-jazykově smíšených oblastech, které existovaly i po roce 1918, je
-použití cizojazyčného jména povinné, pokud jej korporace preferovala.
-České jméno se musí v takovém případě uvést jako variantní označení.
+   jazykově smíšených oblastech, které existovaly i po roce 1918, je
+   použití cizojazyčného jména povinné, pokud jej korporace preferovala.
+   České jméno se musí v takovém případě uvést jako variantní označení.
 
 4. V případě institucí a organizací na odtržených československých
-územích v období 1938–1945 se použije cizojazyčné jméno povinně (např.
-„\ **Amtsgericht Trautenau**\ “). Pokud byla užívána česká varianta nebo
-je možný kvalifikovaný překlad, uvede se ve variantním označení
-(„\ *Úřední soud Trutnov*\ “).
+   územích v období 1938–1945 se použije cizojazyčné jméno povinně (např.
+   „\ **Amtsgericht Trautenau**\ “). Pokud byla užívána česká varianta nebo
+   je možný kvalifikovaný překlad, uvede se ve variantním označení
+   („\ *Úřední soud Trutnov*\ “).
 
 5. V případě českých úřadů v období protektorátu se preferuje české
-jméno a německé se povinně uvádí ve variantním označení. Naopak v
-případě německých úřadů existujících na území Protektorátu Čechy a
-Morava se preferuje jméno německé a český překlad se uvádí ve VAR.
+   jméno a německé se povinně uvádí ve variantním označení. Naopak v
+   případě německých úřadů existujících na území Protektorátu Čechy a
+   Morava se preferuje jméno německé a český překlad se uvádí ve VAR.
 
 6. Pokud je součástí jména korporace i její sídlo, zapisuje se ve tvaru
-používaném ve zdroji, z něhož je preferované označení převzato
-(„\ *Liberec*\ “, „\ *v Liberci“*, „\ *pro Liberec a okolí*\ “,
-„\ *Reichenberg*\ “, „\ *in Reichenberg*\ “ apod.). Oproti názvu
-archivního souboru v evidenci NAD tedy nemusí být v 1. pádu.
+   používaném ve zdroji, z něhož je preferované označení převzato
+   („\ *Liberec*\ “, „\ *v Liberci“*, „\ *pro Liberec a okolí*\ “,
+   „\ *Reichenberg*\ “, „\ *in Reichenberg*\ “ apod.). Oproti názvu
+   archivního souboru v evidenci NAD tedy nemusí být v 1. pádu.
+
 
 Vedlejší část jména
 '''''''''''''''''''
@@ -1084,8 +1085,8 @@ Typ formy jména
 a) úřední,
 
 b) uměle vytvořené – uvádí se vždy u entity podtřídy „administrativně
-vymezená území s vlastní správou“ typu jméno obce/města XY (obec) či
-Velkostatek XY,
+   vymezená území s vlastní správou“ typu jméno obce/města XY (obec) či
+   Velkostatek XY,
 
 c) jediný známý tvar,
 
@@ -1104,6 +1105,7 @@ i) podoba s čestným názvem,
 j) podle jiných pravidel,
 
 k) překlad.
+
 
 Datace použití jména od-do
 ''''''''''''''''''''''''''
@@ -1210,18 +1212,19 @@ a) vznik,
 
 b) působnost od.
 
+
 Pro výběr způsobu vzniku (dále též zjednodušeně „událost“) jsou
 rozhodující tato kritéria: pokud je datum vzniku známo nebo je lze
 odhadnout, použije se událost „Vznik“, v opačném případě se použije
 událost „Působnost od“.
 
 Událost Vznik
-^^^^^^^^^^^^^
+''''''''''''''''''''''''''
 
 Vyplňuje se:
 
 1. Datace vzniku
-''''''''''''''''
+^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** povinný PP u původců, v ostatních případech doporučený.
 
@@ -1229,67 +1232,69 @@ Vyplňuje se:
 známo, může se uvést kvalifikovaný odhad.
 
 2. Vztahy spojené s událostí Vznik
-''''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinné, kromě vztahu „předchůdce“.
 
 **Pravidla:**
 
 a) zakladatel/zřizovatel (vztah) – vazba na archivní autoritní záznam
-(dále též jen „záznam“) zakladatele/zřizovatele,
+   (dále též jen „záznam“) zakladatele/zřizovatele,
 
 b) předchůdce (vztah) – vazba na záznam entity, ze které korporace
-vznikla nebo jejíž převzala agendu; o předchůdci platí analogicky totéž,
-co je uvedeno o nástupci níže v kap. 9.3.3; **povinnost:** existuje-li
-jeho záznam, povinný u původců, v ostatních případech doporučený,
+   vznikla nebo jejíž převzala agendu; o předchůdci platí analogicky totéž,
+   co je uvedeno o nástupci níže v kap. 9.3.3; **povinnost:** existuje-li
+   jeho záznam, povinný u původců, v ostatních případech doporučený,
 
 c) dokument (vztah) – vazba na záznam dokumentu, který se týká vzniku
-korporace,
+   korporace,
 
 d) místo (vztah) – vazba na záznam místa vzniku,
 
 e) entita související se vznikem (vztah) – vazby na záznamy entit ze
-všech tříd souvisejících se vznikem.
+   všech tříd souvisejících se vznikem.
+
 
 3. Typ vzniku
-'''''''''''''
+^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** povinný PP u původců, v ostatních případech doporučený.
 
 **Pravidla:** Výběr z číselníkové nabídky:
 
 a) vznik zřízením/založením – např. zřizovatel vydal zřizovací listinu,
-vznik na základě právní normy, např. zákona, korporace se sama založila,
-korporace byla založena zakladatelem/zřizovatelem jinak než zřizovací
-listinou, rozhodnutím či právní normou, zřizovatel vydal rozhodnutí,
-korporace byla obnovena (znovu založena),
+   vznik na základě právní normy, např. zákona, korporace se sama založila,
+   korporace byla založena zakladatelem/zřizovatelem jinak než zřizovací
+   listinou, rozhodnutím či právní normou, zřizovatel vydal rozhodnutí,
+   korporace byla obnovena (znovu založena),
 
 b) vznik zahájením činnosti – používá se pokud:
 
-1) se datum zahájení činnosti výrazně liší od jiného data vzniku
-(typické u spolků a přípravných výborů zřízených za účelem založení
-korporace – **viz kapitolu 9.2.1**),
+   1) se datum zahájení činnosti výrazně liší od jiného data vzniku
+      (typické u spolků a přípravných výborů zřízených za účelem založení
+      korporace – **viz kapitolu 9.2.1**),
 
-2) jiný typ vzniku nelze použít (typicky u stolních společností a jiných
-neoficiálních korporací),
+   2) jiný typ vzniku nelze použít (typicky u stolních společností a jiných
+      neoficiálních korporací),
 
 c) vznik změnou předchůdce – např. vznik změnou právního statusu
-předchůdce, vznik změnou korporativnosti předchůdce, vznik sloučením
-předchůdce/předchůdců, které se promítne do preferovaného označení nové
-sloučené korporace, vznik přeřazením předchůdce – změna nadřízené
-korporace nebo organizačního začlenění, které se promítne do
-preferovaného označení (ne vždy spojeno se změnou sídla), vznik
-odštěpením od předchůdce – opuštění organizační struktury a vznik
-samostatné korporace (ne vždy spojeno se změnou sídla), vznik rozdělením
-předchůdce do více nástupnických korporací (**viz též kapitolu 9.2.1**),
+   předchůdce, vznik změnou korporativnosti předchůdce, vznik sloučením
+   předchůdce/předchůdců, které se promítne do preferovaného označení nové
+   sloučené korporace, vznik přeřazením předchůdce – změna nadřízené
+   korporace nebo organizačního začlenění, které se promítne do
+   preferovaného označení (ne vždy spojeno se změnou sídla), vznik
+   odštěpením od předchůdce – opuštění organizační struktury a vznik
+   samostatné korporace (ne vždy spojeno se změnou sídla), vznik rozdělením
+   předchůdce do více nástupnických korporací (**viz též kapitolu 9.2.1**),
 
 d) vznik zápisem do evidence – např. zápis do obchodního, podnikového,
-spolkového rejstříku,
+   spolkového rejstříku,
 
 e) nespecifikovaný vznik.
 
+
 4. Poznámka k události Vznik
-''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinný PP.
 
@@ -1337,12 +1342,12 @@ odhadnout, použije se událost „Zánik“, v opačném případě se použije
 událost „Působnost do“.
 
 Událost Zánik
-^^^^^^^^^^^^^
+''''''''''''''''''''''''''
 
 Vyplňuje se:
 
 1. Datace zániku
-''''''''''''''''
+^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** povinný PP u původců, v ostatních případech doporučený.
 
@@ -1350,7 +1355,7 @@ Vyplňuje se:
 známo, může se uvést kvalifikovaný odhad.
 
 2. Vztahy spojené s událostí Zánik
-''''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinné, kromě vztahu „nástupce“.
 
@@ -1359,17 +1364,17 @@ známo, může se uvést kvalifikovaný odhad.
 a) likvidátor (vztah) – vazba na záznam likvidátora,
 
 b) nástupce (vztah) – vazba na záznam entity, která se stala nástupcem
-popisované korporace nebo převzala její agendu. Nástupcem je pouze
-taková entita, která vstupuje na místo dané korporace do téhož právního
-poměru, což znamená, že stejně jako popisovaná korporace:
+   popisované korporace nebo převzala její agendu. Nástupcem je pouze
+   taková entita, která vstupuje na místo dané korporace do téhož právního
+   poměru, což znamená, že stejně jako popisovaná korporace:
 
-1. je na stejné hierarchické úrovni,
+   1. je na stejné hierarchické úrovni,
 
-2. má stejné, nedělené věcné kompetence a zpravidla i geografickou
-působnost.
+   2. má stejné, nedělené věcné kompetence a zpravidla i geografickou
+      působnost.
 
-Zda daný nástupce sídlí ve stejném místě jako jeho předchůdce, či
-nikoliv, nemá význam.
+   Zda daný nástupce sídlí ve stejném místě jako jeho předchůdce, či
+   nikoliv, nemá význam.
 
    **Příklady:**
 
@@ -1387,39 +1392,41 @@ nikoliv, nemá význam.
    zastupování státu ve věcech majetkových, pověřené obecní úřady atd. Z
    toho vyplývá, že nástupce neměl Okresní úřad Karlovy Vary žádného.
 
-**Povinnost:** existuje-li jeho záznam, povinný u původců, v ostatních
-případech doporučený.
+   **Povinnost:** existuje-li jeho záznam, povinný u původců, v ostatních
+   případech doporučený.
 
 c) dokument (vztah) – vazba na záznam dokumentu, který se týká zániku
-korporace,
+   korporace,
 
 d) místo (vztah) – vazba na záznam místa zániku,
 
 e) entita související se zánikem (vztah) – vazby na záznamy entit ze
-všech tříd souvisejících se zánikem.
+   všech tříd souvisejících se zánikem.
+
 
 3. Typ zániku
-'''''''''''''
+^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** povinný PP u původců, v ostatních případech doporučený.
 
 **Pravidla:** Výběr z číselníkové nabídky:
 
 a) zánik zrušením/změnou – např. zánik rozpuštěním, zánik na základě
-zákona nebo rozhodnutí, zánik konkursem, úpadkem, likvidací, zánik
-změnou právního statusu, korporativnosti, zánik sloučením, přeřazením,
-odštěpením (**viz též kapitolu 9.2.1**),
+   zákona nebo rozhodnutí, zánik konkursem, úpadkem, likvidací, zánik
+   změnou právního statusu, korporativnosti, zánik sloučením, přeřazením,
+   odštěpením (**viz též kapitolu 9.2.1**),
 
 b) zánik ukončením činnosti – např. rozejitím z vůle samotné korporace
-(u spolků apod.),
+   (u spolků apod.),
 
 c) zánik výmazem z evidence – např. výmazem z obchodního, podnikového,
-spolkového a jiného rejstříku,
+   spolkového a jiného rejstříku,
 
 d) nespecifikovaný zánik.
 
+
 4. Poznámka k události Zánik
-''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinný PP.
 

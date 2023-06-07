@@ -395,13 +395,14 @@ známo, může se uvést kvalifikovaný odhad.
 **Pravidla:**
 
 a) poslední známý člen rodu/rodiny (vztah) – vazba na záznam posledního
-známého mužského člena rodu/rodiny,
+   známého mužského člena rodu/rodiny,
 
 b) dokument (vztah) – vazba na záznam dokumentu, který se týká zániku
-rodu/rodiny,
+   rodu/rodiny,
 
 c) entita související se zánikem (vztah) – vazby na záznamy entit ze
-všech tříd souvisejících se zánikem.
+   všech tříd souvisejících se zánikem.
+
 
 3. Poznámka k události Zánik
 ''''''''''''''''''''''''''''
@@ -517,7 +518,7 @@ Vztahy (rod/rodina)
 Vyplňuje se:
 
 Související entity (vztahy mimo událost):
-'''''''''''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 a) je členem rodiny/rodu (vztah) – vazba na záznam hlavního rodu/rodiny
    (např. u větve rodu),

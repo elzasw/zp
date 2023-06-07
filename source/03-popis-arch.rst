@@ -45,6 +45,9 @@ autoritních záznamů v IS CAM, [2]_ a konečně spojením s detailním
 popisem instituce, která o archiválie pečuje. Přehledně jsou tyto vztahy
 vyjádřeny následujícím schématem:
 
+.. image:: img/3.1_zasady_popisu.jpg
+   
+
 Základní principy víceúrovňového popisu
 -------------------------------------------
 
