@@ -216,35 +216,35 @@ Uvedený výčet není úplný a lze evidovat i další typy datací.
 Název autorského díla – prvek byl sloučen s prvkem 4.2.4 Formální název jednotky popisu
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Způsob a forma dochování
+Způsob a forma dochování
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Obsah prvku:** Způsob a forma dochování jednotky popisu z hlediska:
 
 a) vůle původce a případně dalších subjektů vytvořit jeden nebo více
-exemplářů téhož dokumentu,
+   exemplářů téhož dokumentu,
 
 b) vztahu popisovaného dokumentu k jeho předloze nebo naopak ke konečné
-podobě,
+   podobě,
 
 c) záznamu o listině v rámci jiné listiny (používá se pouze u záznamu
-insertu, resp. transumptu – viz výše).
+   insertu, resp. transumptu – viz výše).
 
 **Pravidla:**
 
-**1. ad a), b):** U fotografických archiválií se z hlediska způsobu
-a formy dochování za originály považují všechny fotografické dokumenty,
-bližší specifikace se však nevylučuje. U ostatních druhů archiválií je
-třeba způsob dochování kvalifikovaně posoudit a popsat (například za
-originál z hlediska vztahu k předloze nelze prohlásit jediný dochovaný
-koncept dopisu, nebo jedinou dochovanou distribuční kopii filmu,
-přestože se z určitého hlediska jedná také o originály). Pokud nelze
-způsob a formu dochování spolehlivě určit, uvede se příslušné
-vysvětlení, případně „nelze určit“ (tj. stav jednotky popisu neumožnil
-určení), nebo „neurčeno“ (tj. zpracovatel nebyl schopen hodnotu určit).
+1. **ad a), b):** U fotografických archiválií se z hlediska způsobu
+   a formy dochování za originály považují všechny fotografické dokumenty,
+   bližší specifikace se však nevylučuje. U ostatních druhů archiválií je
+   třeba způsob dochování kvalifikovaně posoudit a popsat (například za
+   originál z hlediska vztahu k předloze nelze prohlásit jediný dochovaný
+   koncept dopisu, nebo jedinou dochovanou distribuční kopii filmu,
+   přestože se z určitého hlediska jedná také o originály). Pokud nelze
+   způsob a formu dochování spolehlivě určit, uvede se příslušné
+   vysvětlení, případně „nelze určit“ (tj. stav jednotky popisu neumožnil
+   určení), nebo „neurčeno“ (tj. zpracovatel nebyl schopen hodnotu určit).
 
-2. Otázka pravosti jednotky popisu se řeší **v prvku 4.2.3. Obsah,
-regest**.
+2. Otázka pravosti jednotky popisu se řeší **v prvku 4.2.3. Obsah, regest**.
+
 
 **Povinnost:** Prvek je povinný pro listiny a otisky typářů v I, K.
 V K není prvek povinný, pokud se jedná o originál.
@@ -425,12 +425,12 @@ apod.
    měřítko v jazyce dokumentu, tak výsledek výpočtu. Příklad zápisu:
    [1:380000], grafické měřítko: 20 Öst. Meilen = 20 mm.
 
- 5. V případě mapového díla obvykle se uvádí pouze měřítko hlavního
-    listu, u ostatních listů pouze tehdy,
-    je-li to účelné. Měřítko je vhodné uvádět také u některých vedut –
-    pohledů z ptačí perspektivy či takových, kde je patrný geometrický
-    základ. V případě více map na jednom listě uvedeme měřítko rozsahem
-    největší mapy.
+5. V případě mapového díla obvykle se uvádí pouze měřítko hlavního
+   listu, u ostatních listů pouze tehdy,
+   je-li to účelné. Měřítko je vhodné uvádět také u některých vedut –
+   pohledů z ptačí perspektivy či takových, kde je patrný geometrický
+   základ. V případě více map na jednom listě uvedeme měřítko rozsahem
+   největší mapy.
 
 
 **Povinnost:** I, K u map a technických výkresů. Výjimkou jsou mapy
@@ -507,14 +507,15 @@ pro vytvoření i případné pozdější úpravy jednotky popisu.
 **Pravidla:**
 
 1. Pokud techniku, nosič nebo látku záznamu nelze bezprostředně při
-tvorbě popisu určit, uvede se obecnější termín (například tisk místo
-ofset) nebo se uvede příslušné vysvětlení, případně „neurčeno“ (tj.
-zpracovatel nebyl schopen hodnotu určit například kvůli absenci
-příslušného technického vybavení).
+   tvorbě popisu určit, uvede se obecnější termín (například tisk místo
+   ofset) nebo se uvede příslušné vysvětlení, případně „neurčeno“ (tj.
+   zpracovatel nebyl schopen hodnotu určit například kvůli absenci
+   příslušného technického vybavení).
 
 2. Níže uvedené kategorie se při popisu kombinují do logických
-a srozumitelných formulací. Například názvy barev se u sfragistického
-materiálu připojují ke specifikaci nosiče záznamu.
+   a srozumitelných formulací. Například názvy barev se u sfragistického
+   materiálu připojují ke specifikaci nosiče záznamu.
+
 
 **Povinnost:** Prvek je povinný pro listiny, fotografické a zvukové
 archiválie a filmy v I. V K není prvek povinný pro množstevní evidenční
@@ -1827,12 +1828,10 @@ Prvek je povinný pouze pro archivní pomůcku K.
 .. [7]
    Používá se v těchto případech:
 
-   • je-li místo vzniku listiny odlišné od místa vydání.
-
-   • pro místo vzniku kopie, která byla prohlášena za archiválii
-     nahrazující archiválii zaniklou.
-
-   • pro místo vzniku inzertu, resp. transumptu.
+     • je-li místo vzniku listiny odlišné od místa vydání.
+     • pro místo vzniku kopie, která byla prohlášena za archiválii
+       nahrazující archiválii zaniklou.
+     • pro místo vzniku inzertu, resp. transumptu.
 
 
 .. [8]
@@ -2042,11 +2041,10 @@ Prvek je povinný pouze pro archivní pomůcku K.
    Používá se pro místo vzniku při popisu:
 
    a) analogového nosiče záznamu, který byl na určitém místě použit
-   k pořízení fotografického záznamu. V případě vytvoření více záznamů
-   na jeden nosič na více místech se napojují archivní autoritní záznamy
-   všech těchto míst. To platí i pro případnou dvojexpozici na jedno
-   políčko. Místo výroby nosiče záznamu se zde neuplatňuje.
-
+      k pořízení fotografického záznamu. V případě vytvoření více záznamů
+      na jeden nosič na více místech se napojují archivní autoritní záznamy
+      všech těchto míst. To platí i pro případnou dvojexpozici na jedno
+      políčko. Místo výroby nosiče záznamu se zde neuplatňuje.
    b) digitální fotografie.
 
    U obou případů se místo vzniku shoduje s místem vzniku fotografického
