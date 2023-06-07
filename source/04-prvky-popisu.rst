@@ -514,18 +514,18 @@ názvy autorských děl.
 1. Tvorba názvů archivních souborů se řídí příslušnou metodikou.
 
 2. Pokud není formální název nebo název autorského díla znám, nebo jej
-lze těžko určit, uměle se nevytváří.
+   lze těžko určit, uměle se nevytváří.
 
-3. Legenda na grafických listech a kresbách se popisuje **v prvku 5.11.1
-Legenda**.
+3. Legenda na grafických listech a kresbách se popisuje **v prvku 5.11.1 Legenda**.
 
 4. Název se přepisuje přesně, pokud jde o stylizaci (znění), slovosled a
-pravopis, ale není nezbytné dodržet interpunkci a velikost písmen
-(velká/malá). Velmi dlouhý formální název je možné zkrátit, pokud se tím
-neztratí podstata informace. Zkrácení na konci názvu se vyznačuje třemi
-tečkami, zkrácení v názvu třemi tečkami v kulaté závorce. Tato pravidla
-platí pro české i cizojazyčné názvy. V případě, že existuje pouze
-cizojazyčný formální název, do českého jazyka se nepřekládá.
+   pravopis, ale není nezbytné dodržet interpunkci a velikost písmen
+   (velká/malá). Velmi dlouhý formální název je možné zkrátit, pokud se tím
+   neztratí podstata informace. Zkrácení na konci názvu se vyznačuje třemi
+   tečkami, zkrácení v názvu třemi tečkami v kulaté závorce. Tato pravidla
+   platí pro české i cizojazyčné názvy. V případě, že existuje pouze
+   cizojazyčný formální název, do českého jazyka se nepřekládá.
+
 
 **Povinnost:** MS, I, K na úrovni archivní soubor. V I a K se název
 eviduje, pokud má odpovídající informační hodnotu.
@@ -543,28 +543,29 @@ kapitole 5.2.1.
 **Pravidla:**
 
 1. Základní časovou stupnicí je gregoriánský kalendář. Přepočet z
-juliánského do gregoriánského kalendáře není povinný. Pokud je potřeba
-uvést dataci vzniku podle jiných kalendářů, uvádí se formou doplňujícího
-slovního zápisu k základní dataci vzniku **v prvku 4.2.6. Textový způsob
-zápisu datace**.
+   juliánského do gregoriánského kalendáře není povinný. Pokud je potřeba
+   uvést dataci vzniku podle jiných kalendářů, uvádí se formou doplňujícího
+   slovního zápisu k základní dataci vzniku **v prvku 4.2.6. Textový způsob
+   zápisu datace**.
 
 2. Pokud je dochován spolehlivý údaj o čase vzniku, může se datace
-uvádět včetně hodiny a minuty (například u digitálních fotografií),
-případně i sekundy. Rok, měsíc a den (a to i u časových rozsahů) se
-uvádí vždy při popisu listin a při katalogizaci, pokud je to účelné.
+   uvádět včetně hodiny a minuty (například u digitálních fotografií),
+   případně i sekundy. Rok, měsíc a den (a to i u časových rozsahů) se
+   uvádí vždy při popisu listin a při katalogizaci, pokud je to účelné.
 
 3. Datace se uvádí ve formě solitérního údaje (století, rok, měsíc, den,
-hodina, sekunda) nebo časového intervalu. U neznámé a nejisté datace se
-uvádí kvalifikovaný odhad. Čím menší je jistota o dataci, tím širší
-časový rozsah odhadu se uvádí. Odhadem může být i jen dolní či horní mez
-časového intervalu.
+   hodina, sekunda) nebo časového intervalu. U neznámé a nejisté datace se
+   uvádí kvalifikovaný odhad. Čím menší je jistota o dataci, tím širší
+   časový rozsah odhadu se uvádí. Odhadem může být i jen dolní či horní mez
+   časového intervalu.
 
 4. Do datace vzniku se promítá podstatná změna obsahu či formy jednotky
-popisu.
+   popisu.
 
 5. Časové hiáty uvnitř intervalu datace se v případě potřeby vyjadřují
-buď pozitivním, nebo negativním výčtem **v prvku 4.2.3. Obsah, regest**
-nebo **v prvku 4.2.6. Textový způsob zápisu datace**.
+   buď pozitivním, nebo negativním výčtem **v prvku 4.2.3. Obsah, regest**
+   nebo **v prvku 4.2.6. Textový způsob zápisu datace**.
+
 
 **Povinnost:** MS, I, K na úrovních popisu archivní soubor, složka,
 podsložka, jednotlivost a část jednotlivosti. Uvádění datace prior a
@@ -584,8 +585,6 @@ vyjadřovat totéž. Proto není podstatné, zda je použit jako oddělovač
 spojovník či pomlčka, zda jsou měsíce vyjádřeny řadovou číslovkou či
 slovně, zda jsou použity lomené či hranaté závorky apod.
 
-| \*\*
-| \*\*
 
 **Příklady – data, letopočty, století, datum a čas:**
 
@@ -835,12 +834,13 @@ popisu podle **kapitoly 2.9.3**.
 **Pravidla:**
 
 1. Jedna evidenční jednotka se může vztahovat k více jednotkám popisu a
-naopak.
+   naopak.
 
 2. Pro evidenční jednotky se používají zkratky uvedené v kapitole 2.
 
 3. U evidenčních jednotek se v samostatných prvcích (4.2.9) evidují
-jejich počty a součty.
+   jejich počty a součty.
+
 
 **Povinnost:** MS, I, K na příslušných úrovních popisu (**viz prvek
 4.2.9**).
@@ -1030,19 +1030,20 @@ prostředky v digitální podobě nebo na základě tiskové sestavy v případ�
 archivních pomůcek analogových.
 
 1. Záznamy o původcích jsou všeobecně sdíleny, v případě totožných
-původců v různých institucích (archivech) se starší záznam převezme,
-popřípadě doplní. V archivních pomůckách sbírek vzniklých neorganicky
-(mimo úřední činnost původce), zejména sbírek archivních, postačí pro
-popis původce uvádět pouze minimální údaje (v rozsahu preferovaného
-označení, sídla a data vzniku/zániku, popř. působnosti od / působnosti
-do, a identifikátoru z databáze CAM). Obdobně lze postupovat i u
-torzovitě dochovaných osobních a rodových archivních fondů (kdy je fond
-tvořen jen několika jednotlivinami, případně jedním typem archiválie –
-například fotografiemi apod.), u původců prior a posterior nebo v
-případě manipulačního seznamu.
+   původců v různých institucích (archivech) se starší záznam převezme,
+   popřípadě doplní. V archivních pomůckách sbírek vzniklých neorganicky
+   (mimo úřední činnost původce), zejména sbírek archivních, postačí pro
+   popis původce uvádět pouze minimální údaje (v rozsahu preferovaného
+   označení, sídla a data vzniku/zániku, popř. působnosti od / působnosti
+   do, a identifikátoru z databáze CAM). Obdobně lze postupovat i u
+   torzovitě dochovaných osobních a rodových archivních fondů (kdy je fond
+   tvořen jen několika jednotlivinami, případně jedním typem archiválie –
+   například fotografiemi apod.), u původců prior a posterior nebo v
+   případě manipulačního seznamu.
 
 2. V archivní pomůcce se uvádí popis jednotlivých původců odděleně, za
-sebou a ve struktuře uvedené **v kapitolách 6 až 10**.
+   sebou a ve struktuře uvedené **v kapitolách 6 až 10**.
+
 
 Dějiny jednotky popisu
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -193,8 +193,6 @@ apod. se zapisují do hlavní části jména jako celek, přičemž uvedená
 slova a k nim se vztahující přízviska se v preferované formě označení
 neuvádějí.
 
-| \*\*
-| \*\*
 
    **Příklady:**
 
@@ -230,17 +228,18 @@ se neuvádí.
 Uvádí se:
 
 a) křestní (rodné) jméno – přípustné jsou i zdrobnělé a zlidovělé podoby
-(např. Jára, Pepa), iniciály apod.,
+   (např. Jára, Pepa), iniciály apod.,
 
 b) římské číslice, pokud tvoří součást vedlejší části jména (typ Jan II.
-z Rožmberka, tj. „\ **z Rožmberka**\ *, Jan II.*\ “); zapisují se vždy
-za křestním jménem,
+   z Rožmberka, tj. „\ **z Rožmberka**\ *, Jan II.*\ “); zapisují se vždy
+   za křestním jménem,
 
 c) označení osoby typu senior, junior, mladší, starší, pokud je
-oficiální součástí jména.
+   oficiální součástí jména.
 
 d) mužská podoba přijatého příjmení manželky (např. „\ **Bartoš**\ *,
-František Michálek*\ “, „\ **Masaryk**\ *, Tomáš Garrigue*\ “).
+   František Michálek*\ “, „\ **Masaryk**\ *, Tomáš Garrigue*\ “).
+
 
    **Příklady uvádění hlavní i vedlejší části jména v PREF:**
 
@@ -353,31 +352,29 @@ Pro každý typ doplňku existuje samostatný prvek popisu.
 Typy doplňků a jejich pořadí:
 
 1. Obecný doplněk
-                 
 
-**Povinnost:** povinný PP za určitých okolností, v ostatních případech
-se neuvádí.
+   **Povinnost:** povinný PP za určitých okolností, v ostatních případech se neuvádí.
 
-**Pravidla:**
+   **Pravidla:**
 
-U podtřídy „fyzická osoba“ se zapisuje obecný doplněk pouze
-v následujících případech a v tomto pořadí:
+   U podtřídy „fyzická osoba“ se zapisuje obecný doplněk pouze
+   v následujících případech a v tomto pořadí:
 
-a) označení vládnoucí hlavy státu, přičemž se uvádějí jen nejvýše
-dosažené hodnosti včetně ženských ekvivalentů (např. císař, král,
-prezident, car, sultán, chedív, chán, kníže – jako hlava státu, bej).
-Například Karel IV. je v obecném doplňku označován jen jako
-„\ *císař*\ “, Kateřina Veliká jako „\ *carevna*\ “. Diktátoři
-a představitelé kolektivních vládnoucích orgánů se uvádějí bez obecného
-doplňku (např. Adolf Hitler, Leonid Iljič Brežněv).
+   a) označení vládnoucí hlavy státu, přičemž se uvádějí jen nejvýše
+      dosažené hodnosti včetně ženských ekvivalentů (např. císař, král,
+      prezident, car, sultán, chedív, chán, kníže – jako hlava státu, bej).
+      Například Karel IV. je v obecném doplňku označován jen jako
+      „\ *císař*\ “, Kateřina Veliká jako „\ *carevna*\ “. Diktátoři
+      a představitelé kolektivních vládnoucích orgánů se uvádějí bez obecného
+      doplňku (např. Adolf Hitler, Leonid Iljič Brežněv).
 
-b) označení příslušníka církevní hierarchie – uvádí se zde pouze biskup,
-arcibiskup, patriarcha, papež (používá se i u vzdoropapežů) a rovněž
-pouze nejvýše dosažené hodnosti; u církví s jinou titulaturou obdobně
-(např. synodní senior),
+   b) označení příslušníka církevní hierarchie – uvádí se zde pouze biskup,
+      arcibiskup, patriarcha, papež (používá se i u vzdoropapežů) a rovněž
+      pouze nejvýše dosažené hodnosti; u církví s jinou titulaturou obdobně
+      (např. synodní senior),
 
-c) termíny „\ *svatý*\ “, „\ *svatá*\ “; není dovolena zkratka
-„\ *sv.*\ “.
+   c) termíny „\ *svatý*\ “, „\ *svatá*\ “; není dovolena zkratka
+      „\ *sv.*\ “.
 
    **Příklady:**
 
@@ -387,10 +384,10 @@ c) termíny „\ *svatý*\ “, „\ *svatá*\ “; není dovolena zkratka
    **Uživatelské označení: Skrbenský z Hříště,** *Lev (arcibiskup :
    1863-1938), arcibiskup pražský, kardinál a primas český*
 
-Profese nebo obory působnosti se v obecném doplňku neuvádějí. Jsou
-součástí stručné charakteristiky.
+   Profese nebo obory působnosti se v obecném doplňku neuvádějí. Jsou
+   součástí stručné charakteristiky.
 
-U ostatních podtříd se obecný doplněk používá všude.
+   U ostatních podtříd se obecný doplněk používá všude.
 
    **Příklady PREF podtřídy fiktivní fyzická osoba:**
 
@@ -432,25 +429,22 @@ U ostatních podtříd se obecný doplněk používá všude.
 
 2. Chronologický doplněk
                         
+   **Povinnost:** povinný PP za určitých okolností, v ostatních případech doporučený.
 
-**Povinnost:** povinný PP za určitých okolností, v ostatních případech
-doporučený.
+   **Pravidla:** U podtřídy „fyzická osoba“ je vyžadován. Používá se rok
+   nebo století z data narození, úmrtí, případně data působnosti.
 
-**Pravidla:** U podtřídy „fyzická osoba“ je vyžadován. Používá se rok
-nebo století z data narození, úmrtí, případně data působnosti.
+3. Odlišující doplněk                   
 
-3. Odlišující doplněk
-                     
+   **Povinnost:** povinný PP za určitých okolností, v ostatních případech se neuvádí.
 
-**Povinnost:** povinný PP za určitých okolností, v ostatních případech
-se neuvádí.
+   **Pravidla:**
 
-**Pravidla:**
+   Používá se pouze v případě shody preferovaného označení dvou a více
+   entit.
 
-Používá se pouze v případě shody preferovaného označení dvou a více
-entit.
+   Uvádí se pouze v PREF a jako celé kladné číslo bez úvodních nul.
 
-Uvádí se pouze v PREF a jako celé kladné číslo bez úvodních nul.
 
    **Příklady PREF + stručná charakteristika:**
 
@@ -474,6 +468,7 @@ Uvádí se pouze v PREF a jako celé kladné číslo bez úvodních nul.
 
    stručná charakteristika: *starosta obce Kněževes*
 
+
 Typ formy jména
 '''''''''''''''
 
@@ -491,7 +486,7 @@ c) ekvivalent,
 d) jediný známý tvar,
 
 e) zkratka/akronym – používá se i pro zkratky křestních jmen (např.
-„\ *G. B. Shaw*\ “),
+   „\ *G. B. Shaw*\ “),
 
 f) autorská šifra,
 
@@ -504,7 +499,7 @@ i) rodné,
 j) přijaté – získané na základě nějakého aktu,
 
 k) přezdívka/zlidovělá podoba – i krycí jméno, zdomácnělé podoby typu
-Pepík, Fritz,
+   Pepík, Fritz,
 
 l) přímé pořadí,
 
@@ -515,8 +510,9 @@ n) světské,
 o) zkomolená podoba – například „\ *Schwancnberk“*,
 
 p) podle jiných pravidel – používá se, jestliže nelze vybrat žádnou
-z jiných forem a jméno bylo převzato z veřejných zdrojů (publikace,
-internetová stránka apod.).
+   z jiných forem a jméno bylo převzato z veřejných zdrojů (publikace,
+   internetová stránka apod.).
+
 
 Variantní označení
 ^^^^^^^^^^^^^^^^^^
@@ -842,37 +838,39 @@ e) obor studia (vztah) – vazba na záznam oboru studia (obecný pojem).
 a) zaměstnavatel (vztah) – vazba na záznam zaměstnavatele,
 
 b) korporace veřejného působení (vztah) – vazba na záznam korporace,
-v níž osoba působila,
+   v níž osoba působila,
 
 c) funkce/činnost (vztah) – vazba na záznam funkce nebo pracovní pozici
-(obecný pojem), např. „\ *králové*\ “\ *, „ministři*\ “\ *,
-„ředitelé*\ “\ *, „purkmistři*\ “\ *, „učitelé*\ “\ *,
-„arcibiskupové*\ “,
+   (obecný pojem), např. „\ *králové*\ “\ *, „ministři*\ “\ *,
+   „ředitelé*\ “\ *, „purkmistři*\ “\ *, „učitelé*\ “\ *,
+   „arcibiskupové*\ “,
 
 d) spolupracovník (vztah) – vazba na záznam spolupracovníka,
 
 e) nadřízený (vztah) – vazba na záznam nadřízeného,
 
 f) místo (vztah) – vazba na záznam místa zaměstnání (místo výkonu
-práce),
+   práce),
 
 g) obor činnosti (vztah) – vazba na záznam oboru činnosti (obecný
-pojem).
+   pojem).
+
 
 4. členství (událost) – ve sdružení, spolku, řádu:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 a) členská organizace (vztah) – vazba na záznam korporace, jíž byla/je
-popisovaná entita členem,
+   popisovaná entita členem,
 
 b) funkce/činnost (vztah) – vazba na záznam funkce v rámci korporace
-(obecný pojem), např. „\ *předsedové*\ “\ *, „pokladníci*\ “\ *,
-„probošti*\ “,
+   (obecný pojem), např. „\ *předsedové*\ “\ *, „pokladníci*\ “\ *,
+   „probošti*\ “,
 
 c) místo (vztah) – vazba na záznam místa členství,
 
 d) obor činnosti (vztah) – vazba na záznam oboru činnosti (obecný
-pojem).
+   pojem).
+
 
 5. záliba / soukromá činnost (událost):
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -884,7 +882,7 @@ a) funkce/činnost (vztah) – vazba na záznam skupiny nepojmenovaných osob
 b) místo (vztah) – vazba na záznam místa činnosti,
 
 c) obor činnosti (vztah) – vazba na záznam oboru činnosti (obecný
-pojem).
+   pojem).
 
 
 6. udělení ocenění (událost):

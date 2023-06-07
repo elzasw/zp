@@ -29,32 +29,33 @@ Archivní autoritní záznamy jsou v archivnictví používány v rámci těchto
 činností:
 
 1. výběr a evidence archiválií podle zákona o archivnictví a s tím
-související popis původců,
+   související popis původců,
 
 2. zpracování archiválií podle ZP a s tím související popis původců a
-entit v ostatních rolích v rámci archivního popisu. Archivní autoritní
-záznamy se připojením k jednotce popisu stávají přístupovými body. Údaje
-z přístupových bodů se používají pro vyhledávání, identifikaci a
-lokalizaci jednotek popisu a pro tvorbu rejstříkových hesel v tištěných
-archivních pomůckách.
+   entit v ostatních rolích v rámci archivního popisu. Archivní autoritní
+   záznamy se připojením k jednotce popisu stávají přístupovými body. Údaje
+   z přístupových bodů se používají pro vyhledávání, identifikaci a
+   lokalizaci jednotek popisu a pro tvorbu rejstříkových hesel v tištěných
+   archivních pomůckách.
 
-Za zpracování archiválií se z hlediska tvorby a využívání archivních
-autoritních záznamů považuje například:
+   Za zpracování archiválií se z hlediska tvorby a využívání archivních
+   autoritních záznamů považuje například:
 
-1. třídění, pořádání a archivní popis archiválií,
+   1. třídění, pořádání a archivní popis archiválií,
 
-2. tvorba a změna archivní pomůcky včetně popisu archiválií a
-reinventarizace,
+   2. tvorba a změna archivní pomůcky včetně popisu archiválií a
+      reinventarizace,
 
 3. popis archiválie při jiných činnostech, než je tvorba nebo změna
-archivní pomůcky (například evidence nezpracované archiválie pro potřeby
-digitalizace, tematický soupis archiválií apod.),
+   archivní pomůcky (například evidence nezpracované archiválie pro potřeby
+   digitalizace, tematický soupis archiválií apod.),
 
 4. další činnost prováděná v návaznosti na zpracování: například
-provedení změny v evidenci Národního archivního dědictví (dále jen
-„NAD“), specifikace uložení či přesun a převedení archiválií do péče
-jiného pracoviště, práce s jinými informačními systémy, celostátní
-tematický soupis archiválií a migrace dat.
+   provedení změny v evidenci Národního archivního dědictví (dále jen
+   „NAD“), specifikace uložení či přesun a převedení archiválií do péče
+   jiného pracoviště, práce s jinými informačními systémy, celostátní
+   tematický soupis archiválií a migrace dat.
+
 
 Při tvorbě archivních autoritních záznamů je využíván IS CAM (**viz též
 kapitolu 1.3 a přílohu č. 7**). Před vytvořením nového přístupového bodu
@@ -71,6 +72,7 @@ Nový archivní autoritní záznam se vytváří vždy za těchto okolností:
 a) nepanuje naprostá jistota, že se jedná o již evidovanou entitu,
 
 b) vyskytují se prokazatelně různé entity se stejným jménem nebo názvem.
+
 
 Další specifické důvody pro založení nového záznamu jsou uvedeny u
 jednotlivých tříd entit.
@@ -337,7 +339,7 @@ Téměř vždy se pak k jednotce popisu vytvářejí přístupové body s obecn�
 pojmy. Výjimku z těchto pravidel představují:
 
 a) anonymní a blíže neznámé entity (viz níže kapitoly věnované
-jednotlivým třídám),
+   jednotlivým třídám),
 
 b) uplatnění zásady neopakování informací z vyšších úrovní.
 
@@ -1013,115 +1015,113 @@ zápisu podle ZP lišit.
 
 Syntaxe a zásady zápisu chronologického doplňku:
 
-**1. Uvádějí se vždy hodnoty s přesností maximálně na roky a století**;
-tzn. přesto, že je datace vzniku/zániku, resp. narození/úmrtí známa s
-přesností na den a takto je i zapsána v datačních polích událostí vznik
-a zánik, do doplňku se uvádí pouze rok. V případě, že datace vzniku a
-zániku spadá do intervalu jednoho roku, uvádí se v doplňku nikoliv
-interval, nýbrž příslušný rok (např. 1. 1. 1920 až 31. 12. 1920 =
-*„1920“*). Stejně se postupuje v případě jednoho století. Století se
-píše zkratkou „\ *st.*\ “, např. „\ **Polské knížectví** *(10.
-st.-1025)“*.
+1. **Uvádějí se vždy hodnoty s přesností maximálně na roky a století**;
+   tzn. přesto, že je datace vzniku/zániku, resp. narození/úmrtí známa s
+   přesností na den a takto je i zapsána v datačních polích událostí vznik
+   a zánik, do doplňku se uvádí pouze rok. V případě, že datace vzniku a
+   zániku spadá do intervalu jednoho roku, uvádí se v doplňku nikoliv
+   interval, nýbrž příslušný rok (např. 1. 1. 1920 až 31. 12. 1920 =
+   *„1920“*). Stejně se postupuje v případě jednoho století. Století se
+   píše zkratkou „\ *st.*\ “, např. „\ **Polské knížectví** *(10.
+   st.-1025)“*.
 
-**2. Odhad** je uvozen slovem „\ *asi*\ “, např. „\ *asi 1820-asi
-1860*\ “, které je třeba uvádět u každé meze kvůli jednoznačnosti.
-Hranaté závorky se pro odhad v doplňku nepoužívají.
+2. **Odhad** je uvozen slovem „\ *asi*\ “, např. „\ *asi 1820-asi
+   1860*\ “, které je třeba uvádět u každé meze kvůli jednoznačnosti.
+   Hranaté závorky se pro odhad v doplňku nepoužívají.
 
-**3. Působnost** se vyjadřuje neurčitým tvarem „působnost od/působnost
-do“.
+3. **Působnost** se vyjadřuje neurčitým tvarem „působnost od/působnost do“.
 
    **Nejčastější příklady:**
 
    a) pokud jsou v událostech vznik a zánik zadány působnost od a
-   působnost do, doplněk bude např. „\ *působnost od 1580-působnost do
-   1590*\ “,
+      působnost do, doplněk bude např. „\ *působnost od 1580-působnost do
+      1590*\ “,
 
    b) je-li v události vznik uvedena působnost od a v události zánik pak
-   přesná datace zániku, doplněk bude např. „\ *působnost od
-   1580-1590*\ “,
+      přesná datace zániku, doplněk bude např. „\ *působnost od
+      1580-1590*\ “,
 
    c) je-li v události vznik zadána přesná datace vzniku a v události
-   zánik uvedena působnost do, doplněk bude např. „\ *1580-působnost do
-   1590*\ “,
+      zánik uvedena působnost do, doplněk bude např. „\ *1580-působnost do
+      1590*\ “,
 
-Stejný rok
+   Stejný rok
           
+   a) pokud jsou v událostech vznik a zánik roky u působnosti od a
+      působnosti do totožné, uvádí se v doplňku pouze „působnost“ (např.
+      působnost od 12. 3. 1920 do 31. 10. 1920, nebo působnost od 1920 do
+      1920, nebo působnost od 15. 4. 1920 do 15. 4. 1920 = „\ *působnost
+      1920“*),
 
-a) pokud jsou v událostech vznik a zánik roky u působnosti od a
-působnosti do totožné, uvádí se v doplňku pouze „působnost“ (např.
-působnost od 12. 3. 1920 do 31. 10. 1920, nebo působnost od 1920 do
-1920, nebo působnost od 15. 4. 1920 do 15. 4. 1920 = „\ *působnost
-1920“*),
+   b) je-li v události vznik zadána přesná datace a v události zánik
+      působnost do se stejným rokem, jaký je uveden ve vzniku, uvádí se v
+      doplňku vznik i působnost (např. vznik 1. 1. 1520, působnost do 10. 10.
+      1520, doplněk bude „\ *1520-působnost do 1520*\ “),
 
-b) je-li v události vznik zadána přesná datace a v události zánik
-působnost do se stejným rokem, jaký je uveden ve vzniku, uvádí se v
-doplňku vznik i působnost (např. vznik 1. 1. 1520, působnost do 10. 10.
-1520, doplněk bude „\ *1520-působnost do 1520*\ “),
+   c) je-li v události vznik zadána působnost od a v události zánik přesná
+      datace se stejným rokem, jaký je uveden v působnosti od, uvádí se v
+      doplňku působnost od i zánik (např. působnost od 1. 1. 1520, 
+      zánik 10. 10. 1520, doplněk bude „\ *působnost od 1520-1520*\ “),
 
-c) je-li v události vznik zadána působnost od a v události zánik přesná
-datace se stejným rokem, jaký je uveden v působnosti od, uvádí se v
-doplňku působnost od i zánik (např. působnost od 1. 1. 1520, zánik 10.
-10. 1520, doplněk bude „\ *působnost od 1520-1520*\ “),
+   Kombinace s odhadem
 
-Kombinace s odhadem
-                   
+   při kombinaci odhadu a působnosti v událostech vznik a zánik, se v
+   chronologickém doplňku píše např. „\ *působnost od asi 1580-působnost do
+   asi 1590*\ “ – tj. entita je zmíněna v dokumentu, jehož stáří je
+   odhadováno. Odhad „\ *asi*\ “ se zde tedy nevztahuje přímo ke
+   vzniku/zániku entity, nýbrž k dataci dokumentu, ve kterém je entita
+   poprvé/naposledy zmíněna.
 
-při kombinaci odhadu a působnosti v událostech vznik a zánik, se v
-chronologickém doplňku píše např. „\ *působnost od asi 1580-působnost do
-asi 1590*\ “ – tj. entita je zmíněna v dokumentu, jehož stáří je
-odhadováno. Odhad „\ *asi*\ “ se zde tedy nevztahuje přímo ke
-vzniku/zániku entity, nýbrž k dataci dokumentu, ve kterém je entita
-poprvé/naposledy zmíněna.
+4. **První/poslední písemná zmínka** se uvozuje tvarem „uváděno od /
+   uváděno do“. Postupuje se totožně jako v předcházejícím bodu 3.
+   Například „\ *uváděno od 1350*\ “ + možné kombinace s odhadem
+   („\ *uváděno od asi 1260*\ “) či kombinace s přesnou datací („\ *uváděno
+   od 1640-1949*\ “). Pokud je u datace první a poslední písemné zmínky
+   použit stejný rok, uvádí se pouze jako „\ *uváděno*\ “, např.
+   „\ *uváděno 1564*\ “.
 
-**4. První/poslední písemná zmínka** se uvozuje tvarem „uváděno od /
-uváděno do“. Postupuje se totožně jako v předcházejícím bodu 3.
-Například „\ *uváděno od 1350*\ “ + možné kombinace s odhadem
-(„\ *uváděno od asi 1260*\ “) či kombinace s přesnou datací („\ *uváděno
-od 1640-1949*\ “). Pokud je u datace první a poslední písemné zmínky
-použit stejný rok, uvádí se pouze jako „\ *uváděno*\ “, např.
-„\ *uváděno 1564*\ “.
+   Rozlišení působnosti od/do a první/poslední písemné zmínky je uvedeno
+   **v kapitole 6.3.7** a dále v kapitolách jednotlivých tříd.
 
-Rozlišení působnosti od/do a první/poslední písemné zmínky je uvedeno
-**v kapitole 6.3.7** a dále v kapitolách jednotlivých tříd.
+5. **Neznámé datum** se vyjadřuje znakem „\ *?*\ “. Možné situace jsou:
 
-**5. Neznámé datum** se vyjadřuje znakem „\ *?*\ “. Možné situace jsou:
+   a) je známo datum vzniku/narození, ale ne datum zániku/úmrtí (je však
+      známo, že entita/osoba opravdu zanikla/zemřela) a nepoužije se
+      působnost, např. „\ **Novák,** *Jan (1920-?)“*, *„\ *\ **Rakousko
+      1867-1918.**\ *K. k. Eisenbahnministerium. Lokalbahnamt (Vídeň, Rakousko
+      : 1896-?)“*;
 
-a) je známo datum vzniku/narození, ale ne datum zániku/úmrtí (je však
-známo, že entita/osoba opravdu zanikla/zemřela) a nepoužije se
-působnost, např. „\ **Novák,** *Jan (1920-?)“*, *„\ *\ **Rakousko
-1867-1918.**\ *K. k. Eisenbahnministerium. Lokalbahnamt (Vídeň, Rakousko
-: 1896-?)“*;
+   b) není známo datum vzniku/narození, ale je známo datum zániku/úmrtí a
+      nepoužije se působnost, např. „\ **Novák,** *Jan (?-1980)“*,
+      „\ **Dukovany** *(Dukovany, Třebíč, Česko : panství : ?-1850)“*.
 
-b) není známo datum vzniku/narození, ale je známo datum zániku/úmrtí a
-nepoužije se působnost, např. „\ **Novák,** *Jan (?-1980)“*,
-„\ **Dukovany** *(Dukovany, Třebíč, Česko : panství : ?-1850)“*.
 
-**6. Entita stále existuje** – za letopočet se zapisuje spojovník bez
-otazníku, např. **Mařík**\ *, Antonín, PhDr.
-(1957-), archivář…*
+6. **Entita stále existuje** – za letopočet se zapisuje spojovník bez
+   otazníku, např. **Mařík**\ *, Antonín, PhDr.
+   (1957-), archivář…*
 
-**7. Jiné textové řetězce** v chronologickém doplňku jako „\ *kolem*\ “
-nebo předložka „\ *po*\ “ nejsou akceptovány. Výjimku představuje
-řetězec „\ *zaniklo*\ “ (**viz kapitolu** **12.3.1**).
+7. **Jiné textové řetězce** v chronologickém doplňku jako „\ *kolem*\ “
+   nebo předložka „\ *po*\ “ nejsou akceptovány. Výjimku představuje
+   řetězec „\ *zaniklo*\ “ (**viz kapitolu** **12.3.1**).
 
-**8. Další technická specifika:**
+8. **Další technická specifika:**
 
-a) oddělovačem mezi dolní a horní mezí datací, příp. mezi datací a
-   působností je spojovník,
+   a) oddělovačem mezi dolní a horní mezí datací, příp. mezi datací a
+      působností je spojovník,
 
-b) před a za oddělovačem se nezapisují mezery, a to i když se vedle něj
-   nalézá slovo či tečka (viz následující příklady).
+   b) před a za oddělovačem se nezapisují mezery, a to i když se vedle něj
+      nalézá slovo či tečka (viz následující příklady).
 
-c) jestliže je dolní nebo horní hranice (nebo obě) datace entity řešena
-   rozsahem, používá se forma širší meze, tj. u „vzniku“, „začátku“,
-   „narození“ dolní mez a u „zániku“, „konce“, „úmrtí“ horní mez. Například
-   „\ **Václav** *(kníže a svatý : asi 907-asi 935)“*, přičemž u narození
-   je v datačním poli v události vznik vložen odhad roku „\ *907*\ “ a u
-   úmrtí je v datačním poli v události zánik zapsán odhad rozsahem
-   „\ *929/935*\ “.
+   c) jestliže je dolní nebo horní hranice (nebo obě) datace entity řešena
+      rozsahem, používá se forma širší meze, tj. u „vzniku“, „začátku“,
+      „narození“ dolní mez a u „zániku“, „konce“, „úmrtí“ horní mez. Například
+      „\ **Václav** *(kníže a svatý : asi 907-asi 935)“*, přičemž u narození
+      je v datačním poli v události vznik vložen odhad roku „\ *907*\ “ a u
+      úmrtí je v datačním poli v události zánik zapsán odhad rozsahem
+      „\ *929/935*\ “.
 
-d) údaj „\ *př. n. l.*\ “ se uvádí za každým záporným letopočtem, např.
-   „\ **Cicero**\ *, Marcus Tullius (106 př. n. l.-43 př. n. l.)“*.
+   d) údaj „\ *př. n. l.*\ “ se uvádí za každým záporným letopočtem, např.
+      „\ **Cicero**\ *, Marcus Tullius (106 př. n. l.-43 př. n. l.)“*.
 
 
 Datace vs. chronologický doplněk
