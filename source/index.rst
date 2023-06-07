@@ -28,6 +28,22 @@ pokynu.
    06-autor-zazn.rst 
    07-osoba.rst
    08-rod-rodina.rst
+   09-korporace.rst
+   10-udalost.rst
+   11-dilo-vytvor.rst
+   12-geo.rst
+   13-pojem.rst
+   14-instituce.rst
+
+
+.. toctree::
+   :includehidden:
+   :maxdepth: 2
+   :numbered: 3
+   :glob:
+   :caption: Přílohy
+
+   autori.rst
 
 
 Čl. 1 Úvodní ustanovení
