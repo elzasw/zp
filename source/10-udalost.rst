@@ -1,3 +1,5 @@
+.. _zp_udalost:
+
 TŘÍDA UDÁLOST
 =================
 
@@ -41,7 +43,7 @@ významné dny a svátky“.
 
    **bitva na Marně** *(1914 : Francie)*
 
-   **akce Z **\ *\ (1964 : Most, Most, Česko)* – konkrétní realizace
+   **akce Z** *(1964 : Most, Most, Česko)* – konkrétní realizace
    entity „akce Z“ z třídy „dílo/výtvor“ – „podtřídy programy…“
 
    **staroměstská exekuce** *(1621 : Praha, Česko)*
@@ -333,16 +335,17 @@ datum známo, může se uvést kvalifikovaný odhad.
 **Pravidla:**
 
 a) organizátor, svolavatel (vztah) – vazba na archivní autoritní záznam
-(dále též jen „záznam“) přípravného výboru, organizátora nebo
-svolavatele události,
+   (dále též jen „záznam“) přípravného výboru, organizátora nebo
+   svolavatele události,
 
 b) dokument (vztah) – vazba na záznam dokumentu, který se týká vzniku
-události,
+   události,
 
 c) místo (vztah) – vazba na záznam místo začátku události,
 
 d) entita související se začátkem (vztah) – vazba na záznam entit ze
-všech tříd souvisejících se vznikem.
+   všech tříd souvisejících se vznikem.
+
 
 3. Typ vzniku
 '''''''''''''
@@ -362,6 +365,7 @@ c) vznik změnou předchůdce,
 d) vznik zápisem do evidence,
 
 e) nespecifikovaný vznik.
+
 
 4. Poznámka k události Začátek
 ''''''''''''''''''''''''''''''
@@ -394,12 +398,13 @@ datum známo, může se uvést kvalifikovaný odhad.
 **Pravidla:**
 
 a) dokument (vztah) – vazba na záznam dokumentu, který se týká konce
-události,
+   události,
 
 b) místo (vztah) – vazba na záznam místa konce události,
 
 c) entita související s koncem (vztah) – vazba na záznam entity
-související se zánikem.
+   související se zánikem.
+
 
 3. Typ zániku
 '''''''''''''
@@ -417,6 +422,7 @@ b) zánik ukončením činnosti (např. zánik rozejitím),
 c) zánik výmazem z evidence,
 
 d) nespecifikovaný zánik.
+
 
 4. Poznámka k události Konec
 ''''''''''''''''''''''''''''
@@ -462,36 +468,36 @@ okolností.
 **Pravidla:**
 
 Související entity (vztahy mimo událost):
-'''''''''''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 a) místo konání (vztah) – vazba na záznam geografického objektu, na
-jehož území se událost odehrávala nebo odehrává. Povinně se uvádí
-u podtřídy „organizované akce a události“ s výjimkou celoplanetárních
-událostí (např. souborného záznamu pro všechny novodobé olympijské hry).
-Uvádí se místo konání akce včetně data, pokud je odlišné od data vzniku
-a zániku. Např. konkrétní MS v hokeji se koná v různých městech
-v různých časech; konkrétní ročník Tour de France – jednotlivé etapy
-v různých lokalitách v různých časech.
+   jehož území se událost odehrávala nebo odehrává. Povinně se uvádí
+   u podtřídy „organizované akce a události“ s výjimkou celoplanetárních
+   událostí (např. souborného záznamu pro všechny novodobé olympijské hry).
+   Uvádí se místo konání akce včetně data, pokud je odlišné od data vzniku
+   a zániku. Např. konkrétní MS v hokeji se koná v různých městech
+   v různých časech; konkrétní ročník Tour de France – jednotlivé etapy
+   v různých lokalitách v různých časech.
 
-Pokud ji lze zjistit, uvádí se přesná adresa, nebo adresy. Pro výčet
-adres v rámci napojeného geografického objektu je v IS CAM určena
-poznámka k tomuto vztahu. U původců se v IS PEvA adresa zapisuje do
-příslušného prvku.
+   Pokud ji lze zjistit, uvádí se přesná adresa, nebo adresy. Pro výčet
+   adres v rámci napojeného geografického objektu je v IS CAM určena
+   poznámka k tomuto vztahu. U původců se v IS PEvA adresa zapisuje do
+   příslušného prvku.
 
-**Povinnost:** povinný vztah u původců, v ostatních případech
-doporučený.
+   **Povinnost:** povinný vztah u původců, v ostatních případech doporučený.
 
 b) vazba na objekt (vztah) – vazba na záznam entity třídy „dílo/výtvor“,
-konkrétně podtřídy „stavby, trasy, zásahy do přírodních útvarů
-s vlastním jménem nebo jinou identifikací“,
+   konkrétně podtřídy „stavby, trasy, zásahy do přírodních útvarů
+   s vlastním jménem nebo jinou identifikací“,
 
 c) pojmenováno po (vztah) – vazba na záznam entity, podle které je
-entita pojmenována,
+   entita pojmenována,
 
 d) souborná událost, celek (vztah) – vazba na záznam zastřešující či
-jiné události, které je popisovaná entita součástí,
+   jiné události, které je popisovaná entita součástí,
 
 e) tematický celek (vztah) – vazba na záznam entity typu obecný pojem.
+
 
 **Poznámka:** u třídy „událost“ se kromě událostí začátek a konec žádné
 jiné události neevidují.

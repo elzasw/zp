@@ -115,16 +115,16 @@ Jedná se například o:
 - kraje,
 
 - vládní obvody (něm. „\ *Regierungsbezirke*\ “ v Sudetské župě
-1939-1945),
+  1939-1945),
 
 - okresy a jim obdobná správní území (provincie, prefektury, kantony,
-obštiny, župy, vojvodství, hrabství ad.),
+  obštiny, župy, vojvodství, hrabství ad.),
 
 - berní okresy (něm. „\ *Steuerbezirke*\ “),
 
 - obce, města, městské části, městské obvody, městské čtvrti, osady
-(něm. „\ *Ortschaften*\ “) jako autonomní části obcí ve smyslu § 107
-zák. č. 7/1864 českého z. z.,
+  (něm. „\ *Ortschaften*\ “) jako autonomní části obcí ve smyslu § 107
+  zák. č. 7/1864 českého z. z.,
 
 - místní části obcí (něm. „\ *Ortsbestandteile*\ “),
 
@@ -143,6 +143,7 @@ zák. č. 7/1864 českého z. z.,
 - vojenské újezdy,
 
 - historické, tj. nyní již správně zrušené či zaniklé oblasti.
+
 
 Pokud není níže uvedeno jinak, míní se hierarchickou úrovní “obec” nejen
 typ “obec”, ale i “vojenský újezd” a “obec se širší působností” (blíže
@@ -164,6 +165,7 @@ z třídy korporace.
    **Adolfovice** *(Bělá pod Pradědem, Jeseník, Česko)*
 
    **Antarktida** *(kontinent/světadíl)*
+
 
 Administrativně vymezené části přírody
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -462,12 +464,13 @@ následujících příkladech:
    Stručná historie jednotlivých částí:
 
    • Sklenov – do roku 1960 samostatná obec. V pramenech se vyskytují
-   dvě části obce Sklenov, a to „Dolní Sklenov“ (zvaný také „Velký
-   Sklenov“) a „Horní Sklenov“ (zvaný též „Malý Sklenov“).
+     dvě části obce Sklenov, a to „Dolní Sklenov“ (zvaný také „Velký
+     Sklenov“) a „Horní Sklenov“ (zvaný též „Malý Sklenov“).
 
    • Hukvaldy – po roce 1849 osada Sklenova.
 
    • Rychaltice – do roku 1960 samostatná obec.
+
 
    V roce 1960 došlo ke sloučení výše zmíněných lokalit do jedné obce se
    společným jménem „Sklenov“.
@@ -694,9 +697,10 @@ republika*\ “.
 V preferovaném označení lze zkratku použít pouze pokud:
 
 a) je zkratka součástí hlavní části úředního jména (např. „\ *Nám. T. G.
-Masaryka*\ “, „\ *Washington, D. C.*\ “),
+   Masaryka*\ “, „\ *Washington, D. C.*\ “),
 
 b) se v geografickém doplňku uvádí katastrální území („\ *k. ú.*\ “).
+
 
 Geografické objekty ležící mimo ČR
                                   
@@ -1349,43 +1353,45 @@ Události a vztahy (geografické objekty)
 Vyplňuje se:
 
 1. historické milníky (událost):
-''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 a) historický milník (vztah) – vazba na záznam jiné entity, která
 charakterizuje historický milník (požár, udělení práva, např. trhů,
 městských práv, novodobé povýšení obce na městys či na město apod.).
 
 2. udělení ocenění (událost):
-'''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 a) ceremoniál ocenění (vztah) – vazba na záznam události ocenění,
 
 b) udělovatel (vztah) – vazba na záznam entity, která udělila ocenění,
 
 c) ocenění (vztah) – vazba na záznam díla/výtvoru představujícího
-ocenění.
+   ocenění.
+
 
 3. související entity (vztahy mimo událost):
-''''''''''''''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 a) příslušnost k (vztah) – vazba na záznam geografického objektu; pro
-vytváření paralelních hierarchií (např. historických v případě napojení
-záznamu obce na záznam historického okresu či kraje), nebo současných –
-v případě napojení záznamu části obce na záznam katastrálního území,
-obdobně napojení hory na pohoří (Sněžka → Krkonoše), ostrova na
-souostroví (Tenerife → Kanárské ostrovy) apod.,
+   vytváření paralelních hierarchií (např. historických v případě napojení
+   záznamu obce na záznam historického okresu či kraje), nebo současných –
+   v případě napojení záznamu části obce na záznam katastrálního území,
+   obdobně napojení hory na pohoří (Sněžka → Krkonoše), ostrova na
+   souostroví (Tenerife → Kanárské ostrovy) apod.,
 
 b) majitel, držitel (vztah) – vazba na záznam majitele, držitele, např.
-feudálního majitele ze třídy „osoba/bytost“ nebo „rod/rodina“
-u poddanské vesnice, městečka apod.,
+   feudálního majitele ze třídy „osoba/bytost“ nebo „rod/rodina“
+   u poddanské vesnice, městečka apod.,
 
 c) partner (vztah) – vazba na záznam partnerské entity (družba
-a partnerství měst a obcí),
+   a partnerství měst a obcí),
 
 d) pojmenováno po (vztah) – vazba na záznam entity, po které byla nebo
-je popisovaná entita pojmenována,
+   je popisovaná entita pojmenována,
 
 e) tematický celek (vztah) – vazba na záznam entity typu obecný pojem.
+
 
 Kódované údaje (identifikátory)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

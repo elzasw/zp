@@ -1,3 +1,5 @@
+.. _zp_dilo:
+
 TŘÍDA DÍLO/VÝTVOR
 =====================
 
@@ -210,7 +212,7 @@ konkrétních entit (např. „\ **akce Z**\ “ vs. obecný pojem
 
    **Marshallův plán** *(rozvojový plán)*
 
-   **akce Z **\ *\ (program)*
+   **akce Z** *(program)*
 
    **Ani zrno nazmar** *(kampaň)*
 
@@ -221,6 +223,7 @@ konkrétních entit (např. „\ **akce Z**\ “ vs. obecný pojem
    **Zelená úsporám** *(dotační program)*
 
    **Ty to zvládneš** *(kampaň)*
+
 
 Stavby, trasy, zásahy do přírodních útvarů s vlastním jménem nebo jinou identifikací
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -272,7 +275,7 @@ kanalizace, vodovody, vodárenské věže, meliorační systémy, kašny apod.
    **kaple svaté Anny** *(Opatov, Třebíč, Česko : kaple)* – samostatně
    stojící kaple
 
-   **dům čp. 75/I **\ *\ (Břetislavova, Chrudim, Chrudim, Česko : dům)*
+   **dům čp. 75/I** *(Břetislavova, Chrudim, Chrudim, Česko : dům)*
 
    **kaple v domě U Kamenného zvonu** *(Staroměstské náměstí, Praha,
    Česko : kaple)*
@@ -799,9 +802,10 @@ díla je pak zapsán v obecném doplňku** (např. „hrad“, „budova divadla
 - sakrální stavby se zasvěcením či s jiným vlastním jménem;
 
 - ostatní stavby bez vlastního jména, ale s jinou identifikací (např.
-čp.);
+  čp.);
 
 - linky městské hromadné dopravy.
+
 
 V těchto případech se typ díla uvádí jak v PREF na prvním místě, tak i v
 obecném doplňku, ve kterém může být dále zpřesněn (např. “autobusová
@@ -838,13 +842,14 @@ linka”).
 
 **2. Pokud nelze postupovat podle bodu 1 a zároveň:**
 
-**-** v nejvíce známém jméně (čili v PREF) se typ díla vyskytuje na
-druhém, případně dalším místě (např. „\ **Pražský hrad**\ “,
-„\ **Národní divadlo**\ “, „\ **Masarykova chata**\ “);
+- v nejvíce známém jméně (čili v PREF) se typ díla vyskytuje na
+  druhém, případně dalším místě (např. „\ **Pražský hrad**\ “,
+  „\ **Národní divadlo**\ “, „\ **Masarykova chata**\ “);
 
 - nebo lze identifikaci zajistit pouze přívlastkem neshodným, který je k
-typu díla připojen bez předložky a na druhém místě (např. „\ **Chata
-myslivců**\ “);
+  typu díla připojen bez předložky a na druhém místě (např. „\ **Chata
+  myslivců**\ “);
+
 
 ponechává se typ díla v hlavní části jména a v obecném doplňku se uvádí
 pojem „stavba“.
@@ -1095,10 +1100,6 @@ informace se zapisuje do PP „stručná charakteristika“.
 
    **Oslavy výročí 400 let založení města Horní Blatná** *(film)*
 
---------------
-
---------------
-
    **Třicet případů majora Zemana** *(televizní seriál)*
 
    **Louskáček** *(Petr Iljič Čajkovskij : balet)*
@@ -1158,6 +1159,7 @@ l) název originálu,
 
 m) incipit.
 
+
 Variantní označení
 ^^^^^^^^^^^^^^^^^^
 
@@ -1194,6 +1196,7 @@ a) vznik,
 
 b) první písemná zmínka.
 
+
 Pro výběr způsobu vzniku (dále též zjednodušeně „událost“) jsou
 rozhodující tato kritéria: pokud je známo datum vzniku díla/výtvoru nebo
 lze odhadnout, použije se událost „Vznik“. Pokud jde o dataci formou
@@ -1220,18 +1223,19 @@ známo, může se uvést kvalifikovaný odhad.
 **Pravidla:**
 
 a) autor/tvůrce (vztah) – vazba na archivní autoritní záznam (dále též
-jen „záznam“) autora/tvůrce a jiné osoby a korporace, které se podílely
-na vzniku díla; vztah je opakovatelný, případné upřesnění vztahu se
-uvede do poznámky k tomuto vztahu (například režisér, autor libreta,
-překladatel atp.),
+   jen „záznam“) autora/tvůrce a jiné osoby a korporace, které se podílely
+   na vzniku díla; vztah je opakovatelný, případné upřesnění vztahu se
+   uvede do poznámky k tomuto vztahu (například režisér, autor libreta,
+   překladatel atp.),
 
 b) dokument (vztah) – vazba na záznam dokumentu, který se týká vzniku,
 
 c) místo (vztah) – vazba na záznam místa, případně místa vzniku, vydání
-apod.,
+   apod.,
 
 d) entita související se vznikem (vztah) – vazba na záznam entit ze
-všech tříd souvisejících se vznikem.
+   všech tříd souvisejících se vznikem.
+
 
 3. Typ vzniku
 '''''''''''''
@@ -1249,6 +1253,7 @@ c) první realizace,
 d) počátek platnosti – např. počátek platnosti zákona,
 
 e) nespecifikovaný vznik.
+
 
 4. Poznámka k události Vznik
 ''''''''''''''''''''''''''''
@@ -1293,6 +1298,7 @@ a) zánik,
 
 b) poslední písemná zmínka.
 
+
 Pro výběr způsobu zániku (dále též zjednodušeně „událost“) jsou
 rozhodující tato kritéria: pokud je známo datum zániku díla/výtvoru nebo
 lze odhadnout, použije se událost „Zánik“. Pokud jde o dataci formou
@@ -1323,7 +1329,8 @@ a) dokument (vztah) – vazba na záznam dokumentu, který se týká zániku,
 b) místo (vztah) – vazba na záznam místa zániku,
 
 c) entita související se zánikem (vztah) – vazba na záznam entit
-souvisejících se zánikem (např. požáru, zemětřesení, války).
+   souvisejících se zánikem (např. požáru, zemětřesení, války).
+
 
 3. Typ zániku
 '''''''''''''
@@ -1339,6 +1346,7 @@ b) ukončení vydávání,
 c) poslední realizace,
 
 d) nespecifikovaný zánik.
+
 
 4. Poznámka k události Zánik
 ''''''''''''''''''''''''''''
@@ -1462,7 +1470,7 @@ Události a vztahy (dílo/výtvor)
 Vyplňuje se:
 
 1. udělení ocenění (událost):
-'''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 a) ceremoniál ocenění (vztah) – vazba na záznam události ocenění,
 
@@ -1473,7 +1481,7 @@ c) ocenění (vztah) – vazba na záznam díla/výtvoru představujícího
 
 
 2. související entity (vztahy mimo událost):
-''''''''''''''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 a) umístění (vztah) – vazba na záznam nezaniklého geografického objektu,
    tzn. lokalitu, kde se stavba nacházela nebo nachází (sídla, ulice,
