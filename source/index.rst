@@ -84,8 +84,10 @@ Vydání ZP ver. 3.1 má za cíl:
    archivních entit” (dále jen Kolegium), které vzniklo na základě
    „Memoranda o shodě” Národního archivu a sedmi státních oblastních
    archivů ze dne 3. prosince 2018 (dále jen „Kolegium“) a vymezit jeho
-   působnost. ## Čl. 2 Postup zavedení Základních pravidel pro
-   zpracování archiválií do praxe
+   působnost. 
+   
+Čl. 2 Postup zavedení Základních pravidel pro zpracování archiválií do praxe
+--------------------------------
 
 ZP 3.1 budou zaváděna v souladu s těmito pravidly:
 
