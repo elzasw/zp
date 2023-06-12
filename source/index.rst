@@ -87,7 +87,7 @@ Vydání ZP ver. 3.1 má za cíl:
    působnost. 
    
 Čl. 2 Postup zavedení Základních pravidel pro zpracování archiválií do praxe
---------------------------------
+-------------------------------------------------------------------------------
 
 ZP 3.1 budou zaváděna v souladu s těmito pravidly:
 
