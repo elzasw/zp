@@ -18,7 +18,7 @@ pokynu.
    :maxdepth: 2
    :numbered: 3
    :glob:
-   :caption: Obsah
+   :caption: Základní pravidla
 
    01-uvod.rst
    02-arch-zprac.rst
