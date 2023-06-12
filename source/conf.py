@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Základní pravidla 3.1'
-copyright = '2020-2022'
+copyright = '2020-2023'
 author = ''
 
 
