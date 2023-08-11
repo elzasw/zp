@@ -1197,7 +1197,7 @@ označují prvky popisu):
 **PREF i VAR:** [hlavní část jména]. [vedlejší část jména] ([obecný
 doplněk] : [geografický doplněk] : [chronologický doplněk])
 
-9.3.2 Vznik
+Vznik
 ~~~~~~~~~~~
 
 **Povinnost:** povinná část archivního autoritního záznamu u původců, v
