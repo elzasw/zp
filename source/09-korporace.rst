@@ -750,10 +750,10 @@ korporace, která se v PREF uvádí, je nezbytné vytvořit vždy nový záznam
 (viz **kapitolu 9.2.1**).
 
 Preferované označení
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+''''''''''''''''''''''''''''''''''
 
 Hlavní část jména
-'''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** povinný PP.
 
@@ -855,7 +855,7 @@ též **kapitolu 6.3.5**):
 
 
 Vedlejší část jména
-'''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** povinný PP za určitých okolností, v ostatních případech
 se neuvádí.
@@ -884,7 +884,7 @@ jednotky uvedené v pramenech („\ *Opatství*\ “, „\ *Provincialát*\ “,
 *„Konvent“* (**viz přílohu č. 14**).
 
 Doplněk
-'''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Pravidla:**
 
@@ -895,7 +895,8 @@ Pro každý typ doplňku existuje samostatný prvek popisu.
 Typy doplňků a jejich pořadí:
 
 1. Obecný doplněk
-                 
+********************************
+
 
 **Povinnost:** povinný PP za určitých okolností, v ostatních případech
 se neuvádí.
@@ -916,6 +917,7 @@ podnikajících fyzických osob vystupujících jako firma či živnost.
    1911-1938), textilní výrobní podnik*
 
 2. Geografický doplněk
+********************************
                       
 
 **Povinnost:** povinný PP u původců za určitých okolností, v ostatních
@@ -1057,7 +1059,8 @@ dané korporace od jiných v rámci nižší sídelní jednotky (např. u
    vzdělávání*
 
 3. Chronologický doplněk
-                        
+********************************
+
 
 **Povinnost:** povinný PP za určitých okolností, v ostatních případech
 doporučený.
@@ -1075,7 +1078,7 @@ rámcovému chronologickému doplňku v uvedené příloze).
    **Obecní úřad Skaštice** *(Skaštice, Kroměříž, Česko : 1990-)*
 
 Typ formy jména
-'''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinný PP.
 
@@ -1108,7 +1111,7 @@ k) překlad.
 
 
 Datace použití jména od-do
-''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinný PP.
 
@@ -1175,7 +1178,7 @@ Uvádí se období jeho užívání, je-li odlišné od data existence entity.
    datace použití jména: *1792-1842*
 
 Variantní označení
-^^^^^^^^^^^^^^^^^^
+''''''''''''''''''''''''''''''''''
 
 **Povinnost:** doporučená část archivního autoritního záznamu.
 
@@ -1188,7 +1191,7 @@ jména.
 Struktura je stejná jako u preferovaného označení.
 
 Označení jako generovaný údaj
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Jednotlivé části označení jsou do souhrnného „Označení“ generovány
 automaticky dle následujícího pořadí spolu s oddělovači (hranaté závorky
@@ -1299,19 +1302,19 @@ e) nespecifikovaný vznik.
 **Povinnost:** nepovinný PP.
 
 Událost Působnost od
-^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Vyplňuje se:
 
 1. Datace působnosti od
-'''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** povinný PP u původců, v ostatních případech doporučený.
 
 **Pravidla:** dolní hranice časového rozmezí působnosti korporace.
 
 2. Vztahy spojené s událostí Působnost od
-'''''''''''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinný PP.
 
@@ -1319,7 +1322,7 @@ Vyplňuje se:
 obsahuje údaj o dolní hranici časového rozmezí působnosti korporace.
 
 3. Poznámka k události Působnost od
-'''''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinný PP.
 
@@ -1347,7 +1350,7 @@ Událost Zánik
 Vyplňuje se:
 
 1. Datace zániku
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** povinný PP u původců, v ostatních případech doporučený.
 
@@ -1355,7 +1358,7 @@ Vyplňuje se:
 známo, může se uvést kvalifikovaný odhad.
 
 2. Vztahy spojené s událostí Zánik
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinné, kromě vztahu „nástupce“.
 
@@ -1405,7 +1408,7 @@ e) entita související se zánikem (vztah) – vazby na záznamy entit ze
 
 
 3. Typ zániku
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** povinný PP u původců, v ostatních případech doporučený.
 
@@ -1426,24 +1429,24 @@ d) nespecifikovaný zánik.
 
 
 4. Poznámka k události Zánik
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinný PP.
 
 Událost Působnost do
-^^^^^^^^^^^^^^^^^^^^
+''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Vyplňuje se:
 
 1. Datace působnosti do
-'''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** povinný PP u původců, v ostatních případech doporučený.
 
 **Pravidla:** horní hranice časového rozmezí působnosti korporace.
 
 2. Vztahy spojené s událostí Působnost do
-'''''''''''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinné.
 
@@ -1451,7 +1454,7 @@ Vyplňuje se:
 obsahuje údaj o horní hranici časového rozmezí působnosti korporace.
 
 3. Poznámka k události Působnost do
-'''''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinný PP.
 
