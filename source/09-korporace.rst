@@ -32,6 +32,7 @@ e) sídla a území vystupující v popisu jako geografický objekt (například
    samosprávné korporace, a to pokud mají ke své činnosti vytvořen úřad
    (např. magistrát, městský úřad).
 
+.. _zp_09-korporace_podtridy:
 Podtřídy korporací
 ----------------------
 
