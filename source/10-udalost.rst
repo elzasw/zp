@@ -178,7 +178,7 @@ Pro každý typ doplňku existuje samostatný prvek popisu.
 Typy doplňků a jejich pořadí:
 
 1. Pořadí události
-                  
+********************************                  
 
 **Povinnost:** doporučený PP.
 
@@ -186,7 +186,7 @@ Typy doplňků a jejich pořadí:
 se převádějí na arabské.
 
 2. Chronologický doplněk
-                        
+********************************                        
 
 **Povinnost:** povinný PP za určitých okolností, v ostatních případech
 doporučený.
@@ -202,7 +202,7 @@ Povinně se uvádí, pokud je třeba od sebe odlišit dvě různé události se
 stejným označením, které nastaly v různém období.
 
 3. Geografický doplněk
-                      
+********************************                      
 
 **Povinnost:** povinný PP za určitých okolností, v ostatních případech
 se neuvádí.
@@ -229,7 +229,7 @@ zásady, stanovené pro geografický doplněk u třídy „korporace“.
    geografický doplněk: *Česko*
 
 4. Obecný doplněk
-                 
+********************************                 
 
 **Povinnost:** povinný PP za určitých okolností, v ostatních případech
 se neuvádí.
