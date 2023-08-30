@@ -142,10 +142,10 @@ Označení se vytváří analogicky podle příkladů obsažených **v příloz
 10**.
 
 Preferované označení
-^^^^^^^^^^^^^^^^^^^^
+''''''''''''''''''''''''''''''''''
 
 Hlavní část jména
-'''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** povinný PP.
 
@@ -167,7 +167,7 @@ Pokud je letopočet součástí jména, uvádí se v hlavní části jména, pa
 ovšem neuvádí v chronologickém doplňku.
 
 Doplněk
-'''''''
+^^^^^^^^^^^^^^^^^^^^
 
 **Pravidla:**
 
@@ -253,7 +253,7 @@ festival*\ “ atp.
    obecný doplněk se neuvádí
 
 Typ formy jména
-'''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinný PP.
 
@@ -284,12 +284,9 @@ k) překlad.
 
 
 Variantní označení
-^^^^^^^^^^^^^^^^^^
+''''''''''''''''''''''''''''''''''
 
 **Povinnost:** doporučená část archivního autoritního záznamu.
-
-| \*\*
-| \*\*
 
 **Pravidla:**
 
@@ -300,7 +297,7 @@ jména. Rovněž se uvádí forma jména podle jiných pravidel (např. RDA).
 Struktura je stejná jako u preferovaného označení.
 
 Označení jako generovaný údaj
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Jednotlivé části označení jsou do souhrnného „Označení“ generovány
 automaticky dle následujícího pořadí spolu s oddělovači (hranaté závorky
@@ -315,12 +312,12 @@ Začátek
 **Povinnost:** povinný u původců.
 
 Událost Začátek
-^^^^^^^^^^^^^^^
+''''''''''''''''''''''''''''''''''
 
 Vyplňuje se:
 
 1. Datace začátku
-'''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** doporučený PP.
 
@@ -328,7 +325,7 @@ Vyplňuje se:
 datum známo, může se uvést kvalifikovaný odhad.
 
 2. Vztahy spojené s událostí Začátek
-''''''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinný PP.
 
@@ -348,7 +345,7 @@ d) entita související se začátkem (vztah) – vazba na záznam entit ze
 
 
 3. Typ vzniku
-'''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** povinný PP u původců z podtřídy „organizované akce
 a události“, v ostatních případech doporučený, u podtřídy „dočasné
@@ -368,7 +365,7 @@ e) nespecifikovaný vznik.
 
 
 4. Poznámka k události Začátek
-''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinný PP.
 
@@ -378,12 +375,12 @@ Konec
 **Povinnost:** existuje-li, povinný u původců.
 
 Událost Konec
-^^^^^^^^^^^^^
+''''''''''''''''''''''''''''''''''
 
 Vyplňuje se:
 
 1. Datace konce
-'''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** doporučený PP.
 
@@ -391,7 +388,7 @@ Vyplňuje se:
 datum známo, může se uvést kvalifikovaný odhad.
 
 2. Vztahy spojené s událostí Konec
-''''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinný PP.
 
@@ -407,7 +404,7 @@ c) entita související s koncem (vztah) – vazba na záznam entity
 
 
 3. Typ zániku
-'''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** povinný PP u původců z podtřídy „organizované akce a
 události“, v ostatních případech doporučený, u podtřídy “dočasné
@@ -425,7 +422,7 @@ d) nespecifikovaný zánik.
 
 
 4. Poznámka k události Konec
-''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Povinnost:** nepovinný PP.
 
@@ -468,7 +465,7 @@ okolností.
 **Pravidla:**
 
 Související entity (vztahy mimo událost):
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''''''''''''''
 
 a) místo konání (vztah) – vazba na záznam geografického objektu, na
    jehož území se událost odehrávala nebo odehrává. Povinně se uvádí
