@@ -983,6 +983,8 @@ Složka manipulačního seznamu Film X    kar         1
 
 \* Nepovinně.
 
+.. _zp_prvkypopisu_ukljedn:
+
 Ukládací jednotka (číslo)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
