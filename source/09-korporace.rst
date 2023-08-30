@@ -602,11 +602,8 @@ Důvodem pro založení samostatného záznamu není:
 a) změna jména nesouvisející s výše uvedenými kritérii 1. až 8.,
 
 b) změna rozsahu geografické působnosti, která se nepromítla do jména –
-vývoj územního rozsahu působnosti se promítá do příslušného prvku IS
-CAM.
-
-| \*\*
-| \*\*
+   vývoj územního rozsahu působnosti se promítá do příslušného prvku IS
+   CAM.
 
    **Příklad:**
 
@@ -627,13 +624,14 @@ c) změna zřizovatele, změna majitele,
 d) změna sídla a adresy,
 
 e) změna IČO bez dalších zásadních změn (Poznámka: v řadě případů IČO
-zůstávalo stejné, přestože došlo k významným změnám – například z MNV na
-obecní úřad, což v daném případě nebrání zakládání nových záznamů.),
+   zůstávalo stejné, přestože došlo k významným změnám – například z MNV na
+   obecní úřad, což v daném případě nebrání zakládání nových záznamů.),
 
 f) přípravné výbory zřizované za účelem založení korporace (JZD, spolku
-apod.) – přípravný výbor a jím založená korporace jsou jedna entita,
+   apod.) – přípravný výbor a jím založená korporace jsou jedna entita,
 
 g) změny pravomocí korporace.
+
 
 Takové a další zde neuvedené případy jsou řešeny prostřednictvím
 variantního označení v kombinaci s datací použití jména, případně
