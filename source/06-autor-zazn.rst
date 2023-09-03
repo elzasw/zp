@@ -491,7 +491,7 @@ V IS PEvA jsou implementovány stejné třídy a podtřídy jako v IS CAM
 kromě třídy „dílo/výtvor“ a „obecný pojem“, které v evidenci NAD nemají
 praktické užití.
 
-6.3.3 Identifikátor archivního autoritního záznamu
+Identifikátor archivního autoritního záznamu
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Identifikátor je vázán na archivní autoritní záznam, nikoli na jeho
