@@ -744,8 +744,9 @@ Pro každý typ doplňku existuje samostatný prvek popisu.
 
 Typy doplňků a jejich pořadí:
 
+.. _zp-12-geo-obecnydoplnek:
 1. Obecný doplněk
-                 
+********************************                 
 
 **Povinnost:** povinný PP za určitých okolností, v ostatních případech
 se neuvádí.
@@ -753,9 +754,10 @@ se neuvádí.
 **Pravidla:** povinnost je definována dle konkrétního typu geografického
 objektu – **viz přílohu č. 10**.
 
+.. _zp-12-geo-geodoplnek:
 2. Geografický doplněk
-                      
-
+**************************************
+                   
 **Povinnost:** povinný PP za určitých okolností, v ostatních případech
 se neuvádí.
 
@@ -879,8 +881,9 @@ následovanou mezerou.
 
 Dále **viz přílohu č. 10**.
 
+.. _zp-12-geo-chronodoplnek:
 3. Chronologický doplněk
-                        
+**********************************************                        
 
 **Povinnost:** povinný PP za určitých okolností, v ostatních případech
 se neuvádí.
