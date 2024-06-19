@@ -10,9 +10,9 @@ Viz soubor stažitelný na stránce https://www.mvcr.cz/clanek/metodiky.aspx?q=Y
 
 Konkrétně:
 
-`Příloha č. 14 Základních pravidel pro zpracování archiválií ver. 3.1: Závazné příklady popisu původců v evidenci NAD <attachments/ZP2022_priloha_c_14-Puvodci_v3-1_se_zapracovanymi_zmenami_-_20221006.xlsx>`__ (xlsx, 274 kB)
+`Příloha č. 14 Základních pravidel pro zpracování archiválií ver. 3.1: Závazné příklady popisu původců v evidenci NAD <https://www.mvcr.cz/soubor/priloha-c-14-zakladnich-pravidel-pro-zpracovani-archivalii-ver-3-1-zavazne-priklady-popisu-puvodcu-v-evidenci-nad.aspx>`__ (xlsx, 274 kB)
 
-`Příloha č. 14 Základních pravidel pro zpracování archiválií ver. 3.1: Závazné příklady popisu původců v evidenci NAD s vyznačením změn <attachments/ZP2022_priloha_c_14-Puvodci_v3-1_s_vyznacenim_zmen_-_20221006.xlsx>`__ (xlsx, 284 kB)
+`Příloha č. 14 Základních pravidel pro zpracování archiválií ver. 3.1: Závazné příklady popisu původců v evidenci NAD s vyznačením změn <https://www.mvcr.cz/soubor/zp2022-priloha-c-14-zakladnich-pravidel-pro-zpracovani-archivalii-ver-3-1-zavazne-priklady-popisu-puvodcu-v-evidenci-nad-s-vyznacenim-zmen.aspx>`__ (xlsx, 284 kB)
 
 Popis entit v této příloze poskytuje primární kritéria pro rozhodnutí o
 tom, které označení je preferované (kapitola 6.3.5), kdy použít
