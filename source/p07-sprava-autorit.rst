@@ -11,9 +11,12 @@ Správou archivních autoritních záznamů se rozumí níže uvedené procesy:
 1. Vytvoření nového záznamu.
 
 2. Změna existujícího záznamu, kterou se rozumí:
+
 a) oprava chybného údaje (například oprava chybného data narození),
+
 b) upřesnění evidovaného údaje (například nahrazení evidovaného odhadu
 datace přesnou datací narození),
+
 c) doplnění nového, dosud chybějícího údaje (například doplnění
 variantního označení).
 
@@ -33,10 +36,14 @@ jistota o jejich odůvodněnosti.
 
 K uvedeným procesům se váží následující stavy archivního autoritního
 záznamu:
+
 a) nový (dosud neschválený),
+
 b) schválený,
+
 c) nahrazený (vždy obsahuje odkaz na archivní autoritní záznam, kterým
 je nahrazen),
+
 d) neplatný.
 
 Správu záznamů provádějí dle aktuální potřeby určení zaměstnanci podle
@@ -55,12 +62,14 @@ současně v roli schvalovatele.
 ^^^^^^^^^^^^^^^
 
 Práva zpracovatele:
+
 1. Vytváří návrhy v oblasti správy archivních autoritních záznamů.
 
 2. Podává návrhy na změnu ZP příslušnému schvalovateli archivních
 autoritních záznamů.
 
 Povinnosti zpracovatele:
+
 1. Musí být proškolen na pravidla pro vytváření archivních autoritních
 záznamů.
 
@@ -84,6 +93,7 @@ archivních autoritních záznamů.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Práva schvalovatele:
+
 1. Schvaluje návrh zpracovatele.
 
 2. Vrací návrh zpracovateli k opravě formálních chyb v popisu entity a
@@ -102,7 +112,9 @@ autoritních záznamů.
 
 2. Posuzuje a garantuje formální správnost archivního autoritního
 záznamu, tj.:
+
 a) správné zařazení entity do třídy a podtřídy,
+
 b) správné zařazení popisu entity do příslušných prvků popisu.
 
 3. Povinně ověřuje v IS CAM výskyt archivního autoritního záznamu
@@ -115,11 +127,15 @@ schvalovatel.
 5. Podle přidělených kompetencí v rámci příslušné instituce garantuje
 implementaci a dodržování metodiky pro správu archivních autoritních
 záznamů:
+
 a) pro všechny třídy entit v příslušné instituci nebo organizačním
 útvaru,
+
 b) pro jednu nebo více tříd nebo podtříd entit v příslušné instituci
 nebo organizačním útvaru,
+
 c) pro jeden nebo více archivních souborů,
+
 d) pro jeden nebo více archivů dle číselníku archivů v Národním
 portálu.
 
