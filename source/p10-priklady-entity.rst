@@ -859,9 +859,9 @@ Fáze vývoje úřadu včetně opakování stejného názvu v hlavní nebo vedle
 
    VAR: *Ministerium des Innern in Prag*; *Ministerstvo vnitra v Praze*
 
-   K6.3: \*\ **Československo.** Ministerstvo vnitra (Londýn, Velká Británie
-      1940-1945), ústřední orgán pro záležitosti státní správy
-      a samosprávy, vnitřní bezpečnosti a legislativy v exilu\*
+   K6.3: **Československo.** *Ministerstvo vnitra (Londýn, Velká Británie :
+   1940-1945), ústřední orgán pro záležitosti státní správy a samosprávy,
+   vnitřní bezpečnosti a legislativy v exilu*
 
    VAR: *Ministerstvo vnitra ČSR v Londýně*
 
@@ -914,8 +914,8 @@ Fáze vývoje úřadu včetně opakování stejného názvu v hlavní nebo vedle
    VAR: *Bezirkshauptmannschaft Chrudim*; *OH Chrudim*; *Okresní úřad
    Chrudim*; *OkÚ Chrudim*
 
-   K10.4: \*\ **Okresní správa politická Chrudim** (Chrudim, Chrudim, Česko
-      1919-1928), regionální orgán politické státní správy\*
+   K10.4: **Okresní správa politická Chrudim** *(Chrudim, Chrudim, Česko :
+   1919-1928), regionální orgán politické státní správy*
 
    VAR: *OSP Chrudim*; *Okresní úřad Chrudim*; *OkÚ Chrudim*
 
@@ -956,8 +956,8 @@ Fáze vývoje úřadu včetně opakování stejného názvu v hlavní nebo vedle
 
    VAR: *ONV Žlutice*
 
-   K12.4: \*\ **Okresní národní výbor Toužim** (Toužim, Karlovy Vary, Česko
-      1949-1960), úřad okresní lidové správy a přenesené státní správy\*
+   K12.4: **Okresní národní výbor Toužim** *(Toužim, Karlovy Vary, Česko :
+   1949-1960), úřad okresní lidové správy a přenesené státní správy*
 
    VAR: *ONV Toužim*
 
@@ -987,7 +987,7 @@ Fáze vývoje úřadu včetně opakování stejného názvu v hlavní nebo vedle
 
    *sídlo 2: „Brno (Brno-město, Česko)“* – v letech 1945–1949
 
-   *V geografickém doplňku je uvedeno posledně známé sídlo korporace (viz*\ **kapitolu 9.3.1**\ *).*
+   *V geografickém doplňku je uvedeno posledně známé sídlo korporace (viz* **kapitolu 9.3.1**\ *).*
 
 Úřad s celostátní působností sídlící mimo hlavní město:
                                                        
@@ -1023,9 +1023,9 @@ Město/obec a jeho úřad:
 
    VAR: *Magistrat der Stadt Bechin*; *Regulovaný magistrát Bechyně*
 
-   K18: **Magistrat der Stadt Duppau** \*(Hradiště, Karlovy Vary, Česko
-      1795-1850), úřad městské a přenesené státní správy dnes již
-      zaniklého města Doupov\*
+   K18: **Magistrat der Stadt Duppau** *(Hradiště, Karlovy Vary, Česko :
+   1795-1850), úřad městské a přenesené státní správy dnes již zaniklého
+   města Doupov*
 
    VAR: *Municipalstadt Duppau*; *Stadt Duppau*; *Magistrát města
    Doupov*; *Magistrat Duppau*; *Magistrát města doupovského*; *Stadt
@@ -1063,9 +1063,9 @@ Město/obec a jeho úřad:
    z iniciativy skupiny Čechů, kteří byli za války totálně nasazení na
    práci v Ostrově (něm. Schlackenwerth).*
 
-   K21.3: \*\ **Místní správní komise Ostrov** (Ostrov, Karlovy Vary, Česko
-      1945-1946), prozatímní úřad místní lidové správy a přenesené státní
-      správy\*
+   K21.3: **Místní správní komise Ostrov** *(Ostrov, Karlovy Vary, Česko :
+   1945-1946), prozatímní úřad místní lidové správy a přenesené státní
+   správy*
 
    VAR: *MSK Ostrov*; *Místní správní komise v Ostrově*
 
@@ -1076,8 +1076,8 @@ Město/obec a jeho úřad:
 
    VAR: *MNV Ostrov*; *Místní národní výbor v Ostrově*
 
-   K21.5: \*\ **Městský národní výbor Ostrov** (Ostrov, Karlovy Vary, Česko
-      1960-1990), úřad městské lidové správy a přenesené státní správy\*
+   K21.5: **Městský národní výbor Ostrov** *(Ostrov, Karlovy Vary, Česko :
+   1960-1990), úřad městské lidové správy a přenesené státní správy*
 
    VAR: *MěNV Ostrov*; *MěstNV Ostrov*; *Městský národní výbor v Ostrově*
 
@@ -1104,8 +1104,8 @@ Město/obec a jeho úřad:
    VAR: *MěstNV Karlovy Vary*; *MěNV Karlovy Vary*; *Městský národní
    výbor v Karlových Varech*
 
-   K22.3: \*\ **Úřad města Karlovy Vary** (Karlovy Vary, Karlovy Vary, Česko
-      1990-2000), úřad městské správy a přenesené státní správy\*
+   K22.3: **Úřad města Karlovy Vary** *(Karlovy Vary, Karlovy Vary, Česko :
+   1990-2000), úřad městské správy a přenesené státní správy*
 
    VAR: *Městský úřad Karlovy Vary*; *Město Karlovy Vary* [typ formy
    jména: zjednodušená podoba]\ *; Město Karlovy Vary* [typ formy jména:
@@ -1127,8 +1127,8 @@ Město/obec a jeho úřad:
    města (členěná i nečleněná), svůj magistrát (zákon č. 128/2000 Sb., §
    15, odst. 2).*
 
-   K23: \*\ **Gemeindeamt Ullersgrün** (Oldřiš, Merklín, Karlovy Vary, Česko
-      1850-1945)\ *,* úřad obecní a přenesené státní správy\*
+   K23: **Gemeindeamt Ullersgrün** *(Oldřiš, Merklín, Karlovy Vary, Česko :
+   1850-1945), úřad obecní a přenesené státní správy*
 
    VAR: *Obecní úřad Oldřiš*; *Obec Oldřiš*; *Gemeinde Ullersloh*
 
@@ -1508,9 +1508,9 @@ Podtřída organizace založené za účelem podnikání
    *Poznámka: Korporace měla v průběhu vývoje více sídel, v geografickém
    doplňku je uvedeno poslední (*\ **viz kapitolu 9.3.1**\ *).*
 
-   K55: \*\ **Jednotné zemědělské družstvo Bylany** (Bylany, Chrudim, Česko
-      1954-1990), právnická osoba lidového družstevnictví zajišťující
-      zemědělskou a jinou hospodářskou činnost\*
+   K55: **Jednotné zemědělské družstvo Bylany** *(Bylany, Chrudim, Česko :
+   1954-1990), právnická osoba lidového družstevnictví zajišťující
+   zemědělskou a jinou hospodářskou činnost*
 
    VAR: *JZD Bylany*; *Jednotné zemědělské družstvo 1. máj Bylany*; *JZD
    1. máj Bylany*
@@ -1587,9 +1587,9 @@ Fáze vývoje podniku a jeho organizační začlenění:
 Fáze vývoje podniku:
                     
 
-   K64.1: \*\ **Mlékařské družstvo táborské, s. r. o.** (Tábor, Tábor, Česko
-      1901-1951), mlékárenský výrobní podnik\* [datace použití jména:
-      1901-1945]
+   K64.1: **Mlékařské družstvo táborské, s. r. o.** *(Tábor, Tábor, Česko :
+   1901-1951), mlékárenský výrobní podnik* [datace použití jména:
+   1901-1945]
 
    VAR: *Mlékařské družstvo táborské, s.r.o.* [datace použití jména:
    1901-1945]; *Mlékařské družstvo táborské, s. r. o.* [datace použití
@@ -1861,7 +1861,7 @@ Podtřída politické organizace
    K73: **Panská jednota** *(1394-1405),* *opoziční uskupení vysoké
    šlechty nespokojené s vládou krále Václava IV.*
 
-   K74: **Republikánská strana zemědělského a malorolnického lidu.**\ *Místní organizace Hradec Králové (Hradec Králové, Hradec Králové,
+   K74: **Republikánská strana zemědělského a malorolnického lidu.** *Místní organizace Hradec Králové (Hradec Králové, Hradec Králové,
    Česko : 1922-1938), místní organizace politické strany*
 
    VAR: *agrárníci.* Místní organizace Hradec Králové; *RSZML.* Místní
@@ -1955,7 +1955,7 @@ Podtřída kulturní, výchovné, výzkumné a zdravotnické organizace a instit
    Univerzity Karlovy*; *UK.* LF Plzeň; *UK.* LF v Plzni; *LF Univerzity
    Karlovy v Plzni*; *Plzeňská LF Univerzity Karlovy*; *Plzeňská LF UK*
 
-   K83.4: **Ústav dějin Univerzity Karlovy a archiv Univerzity Karlovy**\ *(Praha, Česko : 1990-),* *vědecká instituce v oblasti historie
+   K83.4: **Ústav dějin Univerzity Karlovy a archiv Univerzity Karlovy** *(Praha, Česko : 1990-),* *vědecká instituce v oblasti historie
    a archiv vysoké školy*
 
    VAR: *ÚDAUK*
@@ -2018,14 +2018,14 @@ Podtřída kulturní, výchovné, výzkumné a zdravotnické organizace a instit
    VAR: *Léčebna dlouhodobě nemocných v Nejdku* [datace použití jména:
    1980-2013]; *Léčebna dlouhodobě nemocných, příspěvková organizace
    Nejdek*; *Léčebna dlouhodobě nemocných, p. o. Nejdek*; *LDN Nejdek*
-   [datace použití jména: 1980-2013]; *LDN v Nejdku* [datace použití
-   jména: 1980-2013]; *Eldéenka Nejdek; Zařízení následné rehabilitační
-   a hospicové péče Nejdek* [datace použití jména: 2013-]; *Zařízení
-   následné rehabilitační a hospicové péče v Nejdku* [datace použití
-   jména: 2013-]; *Zařízení následné rehabilitační a hospicové péče,
-   příspěvková organizace Nejdek* [datace použití jména: 2013-]; *REHOS
-   - Zařízení následné rehabilitační a hospicové péče Nejdek* [datace
-   použití jména: 2013-]; *REHOS Nejdek* [datace použití jména: 2013-]
+   [datace použití jména: 1980-2013]; *LDN v Nejdku* [datace použití jména:
+   1980-2013]; *Eldéenka Nejdek; Zařízení následné rehabilitační a hospicové
+   péče Nejdek* [datace použití jména: 2013-]; *Zařízení následné
+   rehabilitační a hospicové péče v Nejdku* [datace použití jména: 2013-];
+   *Zařízení následné rehabilitační a hospicové péče, příspěvková organizace
+   Nejdek* [datace použití jména: 2013-]; *REHOS - Zařízení následné
+   rehabilitační a hospicové péče Nejdek* [datace použití jména: 2013-];
+   *REHOS Nejdek* [datace použití jména: 2013-]
 
    K90: **Ústav sociální péče pro dospělé občany Horní Bříza,
    příspěvková organizace** *(Horní Bříza, Plzeň-sever, Česko : 1974-),
@@ -2186,7 +2186,7 @@ Podtřída spolky, společenské organizace
    VAR: *T. J. Karlovy Vary*; *T.J. Karlovy Vary*; *TJ Karlovy Vary*;
    *Česká obec Sokolská.* Tělocvičná jednota Karlovy Vary
 
-   K105: **Výbor pro postavení památníku padlým Nový Hradec Králové**\ *(Nový Hradec Králové, Hradec Králové, Hradec Králové, Česko : 1923),
+   K105: **Výbor pro postavení památníku padlým Nový Hradec Králové** *(Nový Hradec Králové, Hradec Králové, Hradec Králové, Česko : 1923),
    místní zájmové sdružení pro podporu konkrétního záměru*
 
    K106: **Česká archivní společnost** *(Praha, Česko : 1990-), odborné
@@ -2201,7 +2201,7 @@ Podtřída spolky, společenské organizace
    ty změny korporativnosti, v jejichž případě se vytváří nový archivní
    autoritní záznam (*\ **viz kapitolu 9.2.1**\ *).*
 
-   K107: **Svaz knihovníků a informačních pracovníků České republiky**\ *(Praha, Česko : 1990-),* *odborné sdružení*
+   K107: **Svaz knihovníků a informačních pracovníků České republiky** *(Praha, Česko : 1990-),* *odborné sdružení*
 
    VAR: *Svaz knihovníků a informačních pracovníků České republiky z.s.*
    [doba používání jména od: 18. 2. 2020]; *Svaz knihovníků
@@ -2301,8 +2301,8 @@ srozumitelné, nezaměnitelné a obecně vžité.
 Korporace s totožnými názvy:
                             
 
-   K116.1: \*\ **Místní národní výbor Lhotka** (Lhotka, Frýdek-Místek, Česko
-      1945-1990),\* *úřad místní lidové správy a přenesené státní správy*
+   K116.1: **Místní národní výbor Lhotka** *(Lhotka, Frýdek-Místek, Česko :
+   1945-1990),* *úřad místní lidové správy a přenesené státní správy*
 
    VAR: *MNV Lhotka*
 
@@ -2330,7 +2330,7 @@ Korporace se dvěma sídly:
 
    *sídlo 2: „Diana (Rozvadov, Tachov, Česko)“ – od roku 1946.*
 
-   *V geografickém doplňku je uvedeno posledně známé sídlo korporace (viz*\ **kapitolu 9.3.1**\ *).*
+   *V geografickém doplňku je uvedeno posledně známé sídlo korporace (viz* **kapitolu 9.3.1**\ *).*
 
 Pověřená úřední fyzická osoba korporativního charakteru:
                                                         
@@ -2348,8 +2348,8 @@ Fáze vývoje korporace:
 
    VAR: *Pfarrschule Přibyslavice*; *Pfarrschule Przibislawitz*
 
-   K119.2: \*\ **Triviální škola Přibyslavice** (Přibyslavice, Třebíč, Česko
-      1774-1869), škola základního všeobecného vzdělávání\*
+   K119.2: **Triviální škola Přibyslavice** *(Přibyslavice, Třebíč, Česko :
+   1774-1869), škola základního všeobecného vzdělávání*
 
    VAR: *Trivialschule Přibyslavice*; *Trivialschule Przibislawitz*;
    *Farní škola Přibyslavice*; *Triviální farní škola Přibyslavice*
@@ -2367,15 +2367,15 @@ Fáze vývoje korporace:
 
    VAR: *ZDŠ Přibyslavice*
 
-   K119.6: \*\ **Základní škola Přibyslavice** (Přibyslavice, Třebíč, Česko
-      1978-1990), škola základního všeobecného vzdělávání\*
+   K119.6: **Základní škola Přibyslavice** *(Přibyslavice, Třebíč, Česko :
+   1978-1990), škola základního všeobecného vzdělávání*
 
    VAR: *ZŠ Přibyslavice*
 
    *Poznámka: Škola s osmiletou docházkou.*
 
-   K119.7: \*\ **Základní škola Přibyslavice** (Přibyslavice, Třebíč, Česko
-      1990-2002), škola základního všeobecného vzdělávání\*
+   K119.7: **Základní škola Přibyslavice** *(Přibyslavice, Třebíč, Česko :
+   1990-2002), škola základního všeobecného vzdělávání*
 
    VAR: *ZŠ Přibyslavice*
 
@@ -2648,8 +2648,8 @@ Zahraniční korporace:
    VAR: *Konzentrationslager Buchenwald*; *KL Buchenwald*; *KZ
    Buchenwald*; *Buchenwald concentration camp*
 
-   *Poznámka: V českém prostředí je tato korporace všeobecně známa pod
-   českým označením. Buchenwald jako nižší sídelní jednotka je uvedena*\ **v příkladu G159**\ *.*
+   *Poznámka: V českém prostředí je tato korporace všeobecně známa pod českým označením.
+   Buchenwald jako nižší sídelní jednotka je uvedena* **v příkladu G159**\ *.*
 
    K128: **Německo.** *Spolkový úřad pro ochranu ústavy* *(Kolín nad
    Rýnem, Německo : 1950-), civilní vnitřní zpravodajská služba*
@@ -2740,8 +2740,8 @@ Příklad 2 – archivní autoritní záznam entity jakožto původce
 +-----------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Zánik: vztah – specifikace „místo“                                    | Praha, Česko                                                                                                                                                         |
 +-----------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Dějiny                                                                | Sjezd se konal ve dnech 25. – 29. května 1949 v Průmyslovém paláci v Praze. Zúčastnilo se ho 2346 delegátů. Předsedou strany byl zvolen Klement Gottwald, generálním |
-|                                                                       | tajemníkem Rudolf Slánský. Jednalo se o první sjezd Komunistické strany Československa po převzetí moci v únoru 1948…                                                |
+| Dějiny                                                                | Sjezd se konal ve dnech 25. – 29. května 1949 v tehdejším Sjezdovém (nynějším Průmyslovém) paláci v Praze. Zúčastnilo se ho 2346 delegátů. Předsedou strany byl      |
+|                                                                       | zvolen Klement Gottwald, generálním tajemníkem Rudolf Slánský. Jednalo se o první sjezd Komunistické strany Československa po převzetí moci v únoru 1948…            |
 +-----------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Související entity – specifikace „místo konání“                       | Praha, Česko                                                                                                                                                         |
 +-----------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -2806,7 +2806,7 @@ Jednorázové akce:
    U10: **INFORUM 2013** *(19 : Praha, Česko : konference), 19. ročník
    konference o profesionálních informačních zdrojích*
 
-   U11: **Celostátní archivní konference. Archivy, člověk a krajina**\ *(16 : 2015 : Poděbrady, Poděbrady, Česko), konference s tématem
+   U11: **Celostátní archivní konference. Archivy, člověk a krajina** *(16 : 2015 : Poděbrady, Poděbrady, Česko), konference s tématem
    historické prameny a životní prostředí*
 
    U12.1: **Jeden svět** *(21 : 2019 : Česko : filmový festival), 21.
@@ -2819,9 +2819,8 @@ Jednorázové akce:
    Praha, Česko : filmový festival), část festivalu dokumentárních filmů
    věnovaných problematice lidských práv konaná v Praze*
 
-   U12.3: **Jeden svět. Festivalové místo Městské divadlo Benešov**\ *(2019 : Benešov, Benešov, Česko : filmový festival), část festivalu
-   dokumentárních filmů věnovaných problematice lidských práv konaná
-   v Benešově*
+   U12.3: **Jeden svět. Festivalové místo Městské divadlo Benešov** *(2019 : Benešov, Benešov, Česko : filmový festival), část festivalu
+   dokumentárních filmů věnovaných problematice lidských práv konaná v Benešově*
 
 Zastřešující události:
                       
@@ -3035,10 +3034,10 @@ Podtřída autorská a umělecká díla
    Kosmovy kroniky vzniklý ve skriptoriu benediktinského kláštera
    v Třebíči*
 
-   D7: **Libri citationum et sententiarum seu Knihy půhonné a nálezové**\ *(Vincenc Brandl a Bertold Bretholz : kniha), edice historických
+   D7: **Libri citationum et sententiarum seu Knihy půhonné a nálezové** *(Vincenc Brandl a Bertold Bretholz : kniha), edice historických
    pramenů*
 
-   D8: **S hrdostí nošený. Sokolský kroj, úbor a scénický kostým**\ *(Šárka Rámišová : kniha), monografie o kroji a dalších typech oblečení
+   D8: **S hrdostí nošený. Sokolský kroj, úbor a scénický kostým** *(Šárka Rámišová : kniha), monografie o kroji a dalších typech oblečení
    organizace Sokol*
 
    D9: **Archiv města Karlovy Vary** *(Antonín Mařík : archivní pomůcka),
@@ -3083,7 +3082,7 @@ Díly, části, pořadí, vydání, překlady:
    D16: **Televarieté, 26. díl** *(televizní pořad), televizní hudebně
    zábavný pořad Československé televize z roku 1977*
 
-   D17: **Zaklínač, VII. Paní jezera, pátý román o Geraltovi a Ciri**\ *(Andrzej Sapkowski : kniha : 2017-), literární dílo z fantasy žánru*
+   D17: **Zaklínač, VII. Paní jezera, pátý román o Geraltovi a Ciri** *(Andrzej Sapkowski : kniha : 2017-), literární dílo z fantasy žánru*
 
    *Poznámka: Vyskytují se i vydání s jiným názvem (např. „Paní jezera.
    Pátá část ságy o Zaklínači“, vydání z roku 2003).*
@@ -3132,8 +3131,8 @@ Podtřída všeobecně známé dokumenty, smlouvy, zákony, předpisy, normy
 
    VAR: *Bulla Aurea Siciliæ*
 
-   D22: **Mírová smlouva mezi mocnostmi spojenými a sdruženými
-   a Rakouskem podepsaná v Saint-Germain-en-Laye dne 10. září 1919,**\ *smlouva formálně ukončující válečný stav*
+   D22: **Mírová smlouva mezi mocnostmi spojenými a sdruženými a Rakouskem podepsaná v Saint-Germain-en-Laye dne
+   10. září 1919,** *smlouva formálně ukončující válečný stav*
 
    VAR: *Saintgermainská smlouva*; *Traité de Saint-Germain-en-Laye*
    [francouzština]; *Vertrag von Saint-Germain* [němčina]; *Treaty of
@@ -3145,7 +3144,7 @@ Podtřída všeobecně známé dokumenty, smlouvy, zákony, předpisy, normy
 
    VAR: *Varšavská smlouva*
 
-   D24.1: **Zákon č. 71/1967 Sb., o správním řízení /správní řád/,**\ *procesní předpis upravující řízení před správním úřadem*
+   D24.1: **Zákon č. 71/1967 Sb., o správním řízení /správní řád/,** *procesní předpis upravující řízení před správním úřadem*
 
    VAR: *Správní řád*
 
@@ -3976,7 +3975,7 @@ Vývoj státních útvarů jakožto předchůdců Ruska:
    VAR: Российская республика [ruština]; *Rossijskaja respublika*
    [ruština]; *Rossiyskaya republika* [ruština]; *Rusko*
 
-   G14.5: **Ruská sovětská federativní socialistická republika**\ *(1917-1991), historický státní útvar*
+   G14.5: **Ruská sovětská federativní socialistická republika** *(1917-1991), historický státní útvar*
 
    VAR: Российская Советская Федеративная Социалистическая Республика
    [ruština]; *Ruská socialistická federativní sovětská republika*;
@@ -5530,7 +5529,7 @@ tato není určitelná přesněji (na úrovni sídel a níže).
 
    vs.
 
-   entity „\ **Bechyňsko** *(Česko : kraj : 9. st.-1751)*\ “, „\ **Bechyně**\ *(Česko : okres : 1960-)*\ “ ad.
+   entity „\ **Bechyňsko** *(Česko : kraj : 9. st.-1751)*\ “, „\ **Bechyně** *(Česko : okres : 1960-)*\ “ ad.
 
    G169.1: **Praha** **a okolí** *(Česko), Praha a její okolí bez vazby
    na administrativně určené jednotky*
@@ -5571,8 +5570,8 @@ tato není určitelná přesněji (na úrovni sídel a níže).
 
    vs.
 
-   entity „\ **Země moravská** *(Česko : 1918-1928)*\ “, „\ **Země
-   moravskoslezská** *(Česko : 1928-1948)*\ “ a „\ **Markrabství moravské**\ *(Česko : 1182-1918)*\ “
+   entity „\ **Země moravská** *(Česko : 1918-1928)*\ “, „\ **Země moravskoslezská** *(Česko :
+   1928-1948)*\ “ a „\ **Markrabství moravské** *(Česko : 1182-1918)*\ “
 
    G175: **Normandie** *(Francie), historické území*
 
@@ -5789,8 +5788,8 @@ Geografický doplněk: viz výše obecné pravidlo pro celou podtřídu.
 
    G199: **Lesopark Třinec** *(Třinec, Frýdek-Místek, Česko : lesopark)*
 
-   G200: \*\ **Park Puškinova** (Frýdek, Frýdek-Místek, Frýdek-Místek, Česko
-      park)\*
+   G200: **Park Puškinova** *(Frýdek, Frýdek-Místek, Frýdek-Místek, Česko :
+   park)*
 
    VAR: *Puškinův park*; *Puškinův park Frýdek*; *Puškinův park
    Frýdek-Místek*
@@ -5833,8 +5832,8 @@ tratě (vyhláška 254/2010 Sb.).
 
    Příklady:
 
-   G204: \*\ **Baštice 1 A - MO Frýdek-Místek** (Baška, Frýdek-Místek, Česko
-      rybářský revír)\*
+   G204: **Baštice 1 A - MO Frýdek-Místek** *(Baška, Frýdek-Místek, Česko :
+   rybářský revír)*
 
    VAR: *rybářský revír Baštice 1 A*; *rybářský revír Baštice*; *rybářský
    revír Baška*

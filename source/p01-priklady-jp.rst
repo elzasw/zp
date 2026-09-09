@@ -89,9 +89,6 @@ K      -       -                    ověřovaná listina
 I, K   Úřední kniha Úřední kniha     -
 ====== ============ ================ ======================
 
-| \*\*
-| \*\*
-
 **Příklad 2.2 – Úřední kniha obsahující dvě nesouvisející části: zápisy
 ze schůzí úřadu a spolkovou kroniku s fotografiemi:**\  [1]_
 
@@ -158,9 +155,6 @@ I, K   Kartotéka -                Zásuvka 2                        -          
 K      -         -                -                                Kartotéční lístek 100            -
 K      -         -                -                                Kartotéční lístek 101…           -
 ====== ========= ================ ================================ ================================ ================================
-
-| \*\*
-| \*\*
 
 **Příklad 2.8 – Kartotéka výpisků z několika městských úředních knih
 rozdělená tematicky a nacházející se ve více zásuvkách:**
@@ -399,9 +393,6 @@ K      -      -                          opis listiny 1
 K      -      -                          opis listiny 2
 ====== ====== ========================== ======================
 
-| \*\*
-| \*\*
-
 **Příklad 6.4 – Spisy jedné spisové skupiny uložené ve více kartonech:**
 
 ====== ====== ================== ============== ===================== ================ =========================
@@ -466,9 +457,6 @@ K      -      -                  -          -                                   
 K      -      -                  -          -                                                         Fotografie volná  -
 ====== ====== ================== ========== ========================================================= ================= ======================
 
-| \*\*
-| \*\*
-
 **Příklad 6.8 – Spis k povolení živnosti uložený ve třech kartonech
 (typový spis):**
 
@@ -527,9 +515,6 @@ K      -      -                  -                                       -      
 K      -      -                  -                                       -                                       Dopis 2…         -
 ====== ====== ================== ======================================= ======================================= ================ ======================
 
-| \*\*
-| \*\*
-
 **Příklad 6.12 – Elektronické spisy:**
 
 ====== =========================== =================== ================================= ================ =============================
@@ -585,9 +570,6 @@ K      -      -                pečeť
 K      -      -                kresba
 ====== ====== ================ ======================
 
-| \*\*
-| \*\*
-
 **Příklad 6.17 – Technická dokumentace stavby uložená v kartonech
 a fasciklech:**\  [3]_
 
@@ -639,9 +621,6 @@ K      -      -                Fotografie       -
 K      -      -                Mince 1          -
 K      -      -                Mince 2          -
 ====== ====== ================ ================ ======================
-
-| \*\*
-| \*\*
 
 **Příklad 6.19 – Tovaryšský list s vedutou (nejedná se o evidenční
 jednotku Tisk):**
@@ -728,9 +707,6 @@ Příklad mapy uložené v archivním souboru Sbírka map viz výše.
 K      -      -                veduta
 ====== ====== ================ ======================
 
-| \*\*
-| \*\*
-
 **Příklad 7.2 – Turistická mapa s doprovodným vlastivědným textem
 a fotografiemi na rubu:**
 
@@ -797,9 +773,6 @@ I, K   -      -                Sekce 2 v mapové zásuvce č. 2    -           
 K      -      -                -                                mapa (sekce) 2 z roku 1993       -                                -
 K      -      -                -                                mapa (sekce) 2 z roku 2001       -                                -
 ====== ====== ================ ================================ ================================ ================================ ================================
-
-| \*\*
-| \*\*
 
 **Příklad 7.8 Katastrální mapy**\  [7]_
 
@@ -880,9 +853,6 @@ K      -                   -                       Grafický list 2…
 **AP** **EJ**        **Jednotlivost** **Část jednotlivosti**
 (I), K Grafický list Grafický list    -
 ====== ============= ================ ======================
-
-| \*\*
-| \*\*
 
 **Příklad 9.3 – Samostatné ex libris nevlepené do knihy:**
 
@@ -965,9 +935,6 @@ K      -                        -                pečeť
 K      -                        Listina 2        -
 K      -                        -                pečeť
 ====== ======================== ================ ======================
-
-| \*\*
-| \*\*
 
 **Příklad 10.8 – Soubor stereoskopických fotografií památek Prahy:**
 

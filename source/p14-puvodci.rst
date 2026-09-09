@@ -50,7 +50,7 @@ uvedeny v poznámce (sloupec I), ale často nezahrnují všechny možnosti. V
 některých případech tato část u příkladu zápisu označení či stručné
 charakteristiky chybí, přesto se ale předpokládá, že specifikace uvedená
 v poznámce bude do příslušného prvku popisu doplněna, typicky např. u
-korporací z tématické skupiny 09 - Školy a školství (doplnění označení)
+korporací z tématické skupiny 09 - Školy a školství (doplnění označení),
 nebo u podniků a provozoven národních výboru z tématické skupiny 05 -
 Národní výbory (doplnění stručné charakteristiky), ad.
 
@@ -58,8 +58,8 @@ Symbol „/“ = u označení (obvykle preferovaného) vyznačuje varianty, z
 nichž je nutné jednu vybrat.
 
 Symbol „;“ = u variantních označení (v hlavní nebo vedlejší části –
-sloupce F, G) odděluje jednotlivá označení, které lze volitelně zapsat.
-Pokud je u jednoho příkladu uvedeno více variantních označení neznamená
+sloupce F, G) odděluje jednotlivá označení, která lze volitelně zapsat.
+Pokud je u jednoho příkladu uvedeno více variantních označení, neznamená
 to, že je nutné ve všech případech uvádět všechny. Jejich zápis je na
 posouzení zpracovatele. Pokud je ve sloupci F, G uvedena zkratka, bude
 vždy zapsána jako jedno z variantních označení. Lze zapsat i jiné
@@ -68,10 +68,10 @@ variantní označení, než jaké je uvedeno v příloze č. 14.
 Modré podbarvení příkladu nebo jeho části:
 
 +--------------------------------+--------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Sloupec A (skupina tematické   | Příklad je jen návodem, jak vytvořit popis       | Případy zápisu organizací založených za účelem podnikání, zápis osob, rodů a podobně a další případy, kdy příklad nemůže postihnou celou šíři           |
+| Sloupec A (skupina tematické   | Příklad je jen návodem, jak vytvořit popis       | Případy zápisu organizací založených za účelem podnikání, zápis osob, rodů a podobně a další případy, kdy příklad nemůže postihnout celou šíři          |
 | evidence).                     | analogické entity.                               | zapisovaných původců.                                                                                                                                   |
 +================================+==================================================+=========================================================================================================================================================+
-| Buňka v jiném sloupci než ve   | Je možné modifikovat zápis v podbarvené buňce.   | Např. je podbarvena jen hlavní část preferovaného označení, potom je možné ji modifikovat i když není uvedena žádné specifikace, ale je nutné dodržet   |
+| Buňka v jiném sloupci než ve   | Je možné modifikovat zápis v podbarvené buňce.   | Např. je podbarvena jen hlavní část preferovaného označení, potom je možné ji modifikovat, i když není uvedena žádná specifikace, ale je nutné dodržet  |
 | sloupci A.                     |                                                  | např. podobu stručné charakteristiky.                                                                                                                   |
 +--------------------------------+--------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
 
@@ -119,7 +119,7 @@ variantního jména na MěKS Bystřice. Naopak v tomto případě není důvod
 měnit stručnou charakteristiku.
 
 3. Vzhledem k tomu, že je modře podbarvena buňka s číslem skupiny
-tematické evidence je možné zápis modifikovat více než připouští
+tematické evidence, je možné zápis modifikovat více, než připouští
 specifikace v poznámce, např. je možný zápis “Bystřické kulturní
 středisko”, “Chrudimská beseda”.
 

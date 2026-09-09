@@ -104,8 +104,8 @@ divadelní představení), ročník atp.
 
    **Strukturovaná událost:**
 
-   zastřešující záznam (filmový festival): \*\ **Jeden svět** (1999- : Česko
-      filmový festival)\*
+   zastřešující záznam (filmový festival): **Jeden svět** *(1999- : Česko :
+   filmový festival)*
 
    záznam ročníku: **Jeden svět** *(21 : 2019 : Česko : filmový
    festival)*
@@ -207,13 +207,14 @@ stejným označením, které nastaly v různém období.
 **Povinnost:** povinný PP za určitých okolností, v ostatních případech
 se neuvádí.
 
-**Pravidla:** Používá se údaj ze vztahu „místo konání“ (více viz
-kapitolu 10.3.6). Skutečnost, že místo konání je nebo není uvedeno již
-ve jméně události, nemá na tuto zásadu vliv. Pokud se událost odehrává
-v různých obcích či lokalitách, do geografického doplňku se uvede jejich
-nejnižší společná zeměpisná úroveň potřebná pro jednoznačnou
-identifikaci. Pro místa konání v dnes již zaniklých sídlech platí
-zásady, stanovené pro geografický doplněk u třídy „korporace“.
+**Pravidla:** Používá se, pokud jej lze vyjádřit údajem ze vztahu „místo
+konání“ (více viz kapitolu 10.3.6). Pak se tento údaj píše i do
+geografického doplňku. Skutečnost, že místo konání je nebo není uvedeno
+již ve jméně události, nemá na tuto zásadu vliv. Pokud se událost
+odehrává v různých obcích či lokalitách, do geografického doplňku se
+uvede jejich nejnižší společná zeměpisná úroveň potřebná pro
+jednoznačnou identifikaci. Pro místa konání v dnes již zaniklých sídlech
+platí zásady, stanovené pro geografický doplněk u třídy „korporace“.
 
    **Příklady:**
 
@@ -450,8 +451,10 @@ Volnou (narativní) formou se uvádějí informace o činnosti, působení,
 právním statutu události atd. Zejména se jedná o vysvětlení vzniku,
 zániku a průběhu události, vymezení její věcné a územní působnosti,
 uvedení souvislostí politického, hospodářského, sociálního nebo
-kulturního vývoje s vývojem události. Případné zkratky je nezbytné při
-jejich prvním použití v textu vysvětlit.
+kulturního vývoje s vývojem události. U organizovaných akcí a událostí
+se informuje o jejich vnitřních strukturách, programových či jiných
+sekcích ad. Případné zkratky je nezbytné při jejich prvním použití
+v textu vysvětlit.
 
 Dějiny události jako celku se zapisují do souborného záznamu, u dílčí
 části se uvádějí jen informace o části.

@@ -630,7 +630,7 @@ nejvíce známá jako „\ *IX. sjezd KSČ*\ “, avšak bude zapsána jako PREF
 prvků popisu (pořadové číslo do doplňku).
 
 Preferované označení je vždy řešeno pro české jazykové prostředí a
-uváděno pouze v latince [1]_. Znamená to:
+uváděno pouze v latince\ [1]_. Znamená to:
 
 **a) preferované označení je tvořeno v češtině, kromě následujících
 výjimek, kterými jsou:**
@@ -990,8 +990,8 @@ spojkou „\ *a*\ “, a to pouze na úrovni stát.
 
    **Krkonoše** *(Česko a Polsko : pohoří)*
 
-V případě více států se uvede kontinent/světadíl, např.
-„\ **Šumava**\ *(Evropa : pohoří)“.*
+V případě více států se uvede kontinent/světadíl, např. „\ **Šumava**
+*(Evropa : pohoří)“.*
 
 Odhad, vyjádřený např. přidáním slova „asi“ (viz níže u chronologického
 doplňku) či jinou formou, se v geografickém doplňku neuvádí. Píše se
@@ -1088,7 +1088,7 @@ Syntaxe a zásady zápisu chronologického doplňku:
    a) je známo datum vzniku/narození, ale ne datum zániku/úmrtí (je však
       známo, že entita/osoba opravdu zanikla/zemřela) a nepoužije se
       působnost, např. „\ **Novák,** *Jan (1920-?)“*, *„\ *\ **Rakousko
-      1867-1918.**\ *K. k. Eisenbahnministerium. Lokalbahnamt (Vídeň, Rakousko
+      1867-1918.** *K. k. Eisenbahnministerium. Lokalbahnamt (Vídeň, Rakousko
       : 1896-?)“*;
 
    b) není známo datum vzniku/narození, ale je známo datum zániku/úmrtí a

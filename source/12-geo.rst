@@ -279,9 +279,8 @@ Pojmenované trvalé klimatické jevy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Pouze trvalé klimatické jevy. Naopak dočasné, jednorázové přírodní jevy
-a živelné pohromy, např. „\ **Katrina** *(hurikán)*\ “,
-„\ **Kyrill**\ *(bouře)*\ “, patří do třídy „událost“, podtřídy „dočasné
-přírodní jevy“.
+a živelné pohromy, např. „\ **Katrina** *(hurikán)*\ “, „\ **Kyrill**
+*(bouře)*\ “, patří do třídy „událost“, podtřídy „dočasné přírodní jevy“.
 
    **Příklady PREF:**
 
@@ -333,13 +332,13 @@ je nutno pečlivě zvážit, zda je v dané situaci třeba použít záznam obc
    **Příklad:**
 
    Je popisována archiválie týkající se obce Oldřiš na Karlovarsku z 1.
-   poloviny 20. století. Oldřiš sice byla tehdy samostatnou obcí, ale
-   nyní je součástí obce Merklín. Jako geografický objekt se proto
-   Oldřiš vždy zapisuje jako osada Merklína (současný stav), tedy
-   „\ **Oldřiš**\ *(Merklín, Karlovy Vary, Česko)*\ “, a nikdy jako
-   samostatná obec. Jako variantní označení se zapisuje německá verze
-   jména „\ *Ullersgrün*\ “. Datace použití tohoto jména bude doba před
-   rokem 1945. Podobně viz níže příklady **v kapitole 12.2.2**.
+   poloviny 20. století. Oldřiš sice byla tehdy samostatnou obcí, ale nyní
+   je součástí obce Merklín. Jako geografický objekt se proto Oldřiš vždy
+   zapisuje jako osada Merklína (současný stav), tedy „\ **Oldřiš**
+   *(Merklín, Karlovy Vary, Česko)*\ “, a nikdy jako samostatná obec. Jako
+   variantní označení se zapisuje německá verze jména „\ *Ullersgrün*\ “.
+   Datace použití tohoto jména bude doba před rokem 1945. Podobně viz níže
+   příklady **v kapitole 12.2.2**.
 
 **Výjimka:** „městské části/obvody“, u kterých se jednotlivé fáze
 historického vývoje evidují jako samostatné entity.
@@ -418,13 +417,12 @@ místě leží.
    I-Děčín“ a „Děčín II-Nové Město“.
 
    Na archivní popis (například u středověké listiny) se napojí archivní
-   autoritní záznam entity reprezentující současné město
-   „\ **Děčín**\ *(Děčín, Česko)*\ “. Napojení záznamů dvou výše
-   zmíněných částí obce by sice bylo teritoriálně přesnější, ale
-   neodpovídalo by kontinuitě jména lokality, která je v tomto případě
-   upřednostněna. Navíc je entita současného města Děčín nejbližší
-   hierarchickou úrovní geografického objektu, která původní historické
-   centrum města obsáhne.
+   autoritní záznam entity reprezentující současné město „\ **Děčín**
+   *(Děčín, Česko)*\ “. Napojení záznamů dvou výše zmíněných částí obce by
+   sice bylo teritoriálně přesnější, ale neodpovídalo by kontinuitě jména
+   lokality, která je v tomto případě upřednostněna. Navíc je entita
+   současného města Děčín nejbližší hierarchickou úrovní geografického
+   objektu, která původní historické centrum města obsáhne.
 
 Problematika rozlučování lokalit / bývalé uměle vytvořené obce
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -706,9 +704,9 @@ Geografické objekty ležící mimo ČR
                                   
 
 Při tvorbě preferovaného označení aktuálně existujících sídel mimo ČR
-(typ geografického objektu „obec s rozšířenou působností“ a nižší
-z podtřídy „administrativně či jinak lidmi vymezená území“) je primárním
-zdrojem aplikace „Jména světa“, spravovaná Českým úřadem zeměměřickým
+(typ geografického objektu „obec se širší působností“ a nižší z podtřídy
+„administrativně či jinak lidmi vymezená území“) je primárním zdrojem
+aplikace „Jména světa“, spravovaná Českým úřadem zeměměřickým
 a katastrálním (https://ags.cuzk.cz/jmenasveta). Pro tento účel se však
 nepoužívají ta exonyma, která jsou v uvedené aplikaci označena jako
 historická. Pokud se v aplikaci české exonymum nenachází, přistoupí se
@@ -838,8 +836,8 @@ a) dva státy – uvedou se oba státy oddělené spojkou „\ *a*\ “, např.
 a Polsko : hora)*\ “\ *.* Jména států se v geografickém doplňku řadí
 abecedně.
 
-b) více států – uvede se kontinent/světadíl, např. „\*\ **Šumava** (Evropa
-   pohoří)\*“
+b) více států – uvede se kontinent/světadíl, např. „\ **Šumava** *(Evropa :
+pohoří)*\ “
 
 Pokud nelze entitu zařadit pod konkrétní stát, lze jako geografický
 doplněk použít jméno kontinentu/světadílu nebo jméno objektu ve vesmíru

@@ -73,8 +73,8 @@ fresky, mozaiky, nástěnné malby, náhrobky, pomníky apod.
 
    **Hlava muže v cylindru** *(Emil Filla : obraz)*
 
-   \*\ **David** (Michelangelo Buonarroti : Via Ricasoli, Florencie, Itálie
-      socha)\*
+   **David** *(Michelangelo Buonarroti : Via Ricasoli, Florencie, Itálie :
+   socha)*
 
    **svatý Jan Nepomucký** *(Kožichovice, Třebíč, Česko : socha)*
 
@@ -1032,16 +1032,15 @@ vedlejší část jména“.
    díla; ilustrátor Josef Lada se v tomto prvku neuvádí; v tomto
    příkladu není řešeno konkrétní vydání knihy
 
-   **Libri citationum et sententiarum. Seu Knihy půhonné
-   a nálezové**\ *(Vincenc Brandl a Bertold Bretholz : kniha) –* editoři
-   edice historických pramenů.
+   **Libri citationum et sententiarum. Seu Knihy půhonné a nálezové**
+   *(Vincenc Brandl a Bertold Bretholz : kniha) –* editoři edice
+   historických pramenů.
 
    **Archiv města Karlovy Vary** *(Antonín Mařík : archivní pomůcka)* –
    zpracovatel inventáře se uvádí
 
-   **Posláním historik. Pocta prof. Robertu Kvačkovi k 80.
-   narozeninám**\ *(kolektiv : kniha)* – autoři jednotlivých článků
-   v tomto sborníku
+   **Posláním historik. Pocta prof. Robertu Kvačkovi k 80. narozeninám**
+   *(kolektiv : kniha)* – autoři jednotlivých článků v tomto sborníku
 
    **Prodaná nevěsta** *(Bedřich Smetana : opera*) – autor hudby; autor
    libreta Karel Sabina se v tomto prvku neuvádí
@@ -1070,8 +1069,8 @@ hotely, restaurace, kina, divadla, školy, stadiony apod.
    Entita „budova kina Oko v Třebíči“: **Oko** *(Jejkov, Třebíč, Třebíč,
    Česko : budova kina)*
 
-   Entita „budova kina Oko v Chrudimi“: \*\ **Oko** (Chrudim, Chrudim, Česko
-      budova kina)\*
+   Entita „budova kina Oko v Chrudimi“: **Oko** *(Chrudim, Chrudim, Česko :
+   budova kina)*
 
 3. Obecný doplněk
                  
@@ -1118,9 +1117,8 @@ se neuvádí.
 **Pravidla:**
 
 Používají se roky z datačních polí v událostech „Vznik“ a „Zánik“. Pokud
-dílo stále existuje, resp. je stále vytvářeno, použije se údaj
-z události Vznik s otevřeným intervalem, např. „\ **Lidové
-noviny**\ *(1987-)*\ “ .
+dílo stále existuje, resp. je stále vytvářeno, použije se údaj z události
+Vznik s otevřeným intervalem, např. „\ **Lidové noviny** *(1987-)*\ “ .
 
 Využívá se pouze, pokud existuje více chronologicky odlišitelných
 vývojových etap, nebo by mohlo dojít k záměně entit.

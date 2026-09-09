@@ -395,7 +395,7 @@ známo, může se uvést kvalifikovaný odhad.
 **Pravidla:**
 
 a) poslední známý člen rodu/rodiny (vztah) – vazba na záznam posledního
-   známého mužského člena rodu/rodiny,
+   známého legitimního mužského člena rodu/rodiny,
 
 b) dokument (vztah) – vazba na záznam dokumentu, který se týká zániku
    rodu/rodiny,
@@ -423,9 +423,9 @@ Vyplňuje se:
 
 **Povinnost:** povinný PP u původců, v ostatních případech doporučený.
 
-**Pravidla:** Přesné datum úmrtí posledního známého mužského člena
-rodu/rodiny. Není-li přesné datum známo, může se uvést kvalifikovaný
-odhad.
+**Pravidla:** Přesné datum úmrtí posledního známého legitimního mužského
+člena rodu/rodiny. Není-li přesné datum známo, může se uvést
+kvalifikovaný odhad.
 
 2. Vztahy spojené s událostí Úmrtí posledního známého člena rodu/rodiny
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
@@ -433,7 +433,7 @@ odhad.
 **Povinnost:** nepovinné.
 
 **Pravidla:** poslední známý člen rodu/rodiny (vztah) – vazba na záznam
-posledního známého mužského člena rodu/rodiny.
+posledního známého legitimního mužského člena rodu/rodiny.
 
 3. Poznámka k události Úmrtí posledního známého člena rodu/rodiny
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''

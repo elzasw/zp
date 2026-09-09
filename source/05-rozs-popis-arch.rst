@@ -780,8 +780,8 @@ Tučně jsou vyznačeny položky povinné i pro I.
 +------------------------------------------------+---------------------+
 | **Osoba/bytost**                               | **autor textu**     |
 +------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost / Rod/rodina          | objedn              |
-|                                                | atel/příjemce [16]_ |
+| Korporace / Osoba/bytost / Rod/rodina          | objednatel/příjemce |
+|                                                | [16]_               |
 +------------------------------------------------+---------------------+
 | Korporace / Osoba/bytost / Rod/rodina          | vlastník [17]_      |
 +------------------------------------------------+---------------------+
@@ -815,43 +815,36 @@ Popisované role entit ve vztahu k hudebninám:
 
 Tučně jsou vyznačeny položky povinné i pro I.
 
-+-----------------------------------------------+----------------------+
-| **Typy entit**                                | **Role               |
-|                                               | entit**\  [21]_      |
-+-----------------------------------------------+----------------------+
-| Korporace / Osoba/bytost / Rod/rodina         | vydavatel/nakladatel |
-+-----------------------------------------------+----------------------+
-| **Korporace / Osoba/bytost**                  | **autor              |
-|                                               | hudby/skladatel**    |
-+-----------------------------------------------+----------------------+
-| **Korporace / Osoba/bytost**                  | **autor textové      |
-|                                               | slo                  |
-|                                               | žky/textař**\  [22]_ |
-+-----------------------------------------------+----------------------+
-| Korporace / Osoba/bytost                      | autor doprovodného   |
-|                                               | textu [23]_          |
-+-----------------------------------------------+----------------------+
-| Osoba/bytost                                  | opisovač             |
-+-----------------------------------------------+----------------------+
-| Korporace / Osoba/bytost                      | tvůrce výtvarné      |
-|                                               | stránky [24]_        |
-+-----------------------------------------------+----------------------+
-| **Korporace / Osoba/bytost / Rod/rodina**     | **objednate          |
-|                                               | l/příjemce**\  [25]_ |
-+-----------------------------------------------+----------------------+
-| Korporace / Osoba/bytost                      | tiskárna/tiskař      |
-+-----------------------------------------------+----------------------+
-| **Geografický objekt**                        | **místo vzniku       |
-|                                               | jednotky popisu**    |
-+-----------------------------------------------+----------------------+
-| **Geografický objekt**                        | **místo vzniku       |
-|                                               | předlohy popisované  |
-|                                               | kopie**\  [26]_      |
-+-----------------------------------------------+----------------------+
-| Korporace / Rod/rodina / Osoba/bytost /       | související entita   |
-| Geografický objekt / Událost / Dílo/výtvor /  |                      |
-| Obecný pojem                                  |                      |
-+-----------------------------------------------+----------------------+
++-----------------------------------------------+---------------------------------+
+| **Typy entit**                                | **Role entit**\  [21]_          |
++-----------------------------------------------+---------------------------------+
+| Korporace / Osoba/bytost / Rod/rodina         | vydavatel/nakladatel            |
++-----------------------------------------------+---------------------------------+
+| **Korporace / Osoba/bytost**                  | **autor hudby/skladatel**       |
++-----------------------------------------------+---------------------------------+
+| **Korporace / Osoba/bytost**                  | **autor textové                 |
+|                                               | složky/textař**\  [22]_         |
++-----------------------------------------------+---------------------------------+
+| Korporace / Osoba/bytost                      | autor doprovodného textu [23]_  |
++-----------------------------------------------+---------------------------------+
+| Osoba/bytost                                  | opisovač                        |
++-----------------------------------------------+---------------------------------+
+| Korporace / Osoba/bytost                      | tvůrce výtvarné stránky [24]_   |
++-----------------------------------------------+---------------------------------+
+| **Korporace / Osoba/bytost / Rod/rodina**     | **objednatel/příjemce**\  [25]_ |
++-----------------------------------------------+---------------------------------+
+| Korporace / Osoba/bytost                      | tiskárna/tiskař                 |
++-----------------------------------------------+---------------------------------+
+| **Geografický objekt**                        | **místo vzniku jednotky         |
+|                                               | popisu**                        |
++-----------------------------------------------+---------------------------------+
+| **Geografický objekt**                        | **místo vzniku předlohy         |
+|                                               | popisované kopie**\  [26]_      |
++-----------------------------------------------+---------------------------------+
+| Korporace / Rod/rodina / Osoba/bytost /       | související entita              |
+| Geografický objekt / Událost / Dílo/výtvor /  |                                 |
+| Obecný pojem                                  |                                 |
++-----------------------------------------------+---------------------------------+
 
 Typáře a jejich otisky
 --------------------------
@@ -1134,49 +1127,47 @@ Popisované role entit ve vztahu k mapám a atlasům:
 
 Tučně jsou vyznačeny položky povinné i pro I.
 
-+------------------------------------------------+---------------------+
-| **Typy entit**                                 | **Role entit**      |
-+------------------------------------------------+---------------------+
-| **Korporace / Osoba/bytost / Rod/rodina**      | **vyd               |
-|                                                | avatel/nakladatel** |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost / Rod/rodina          | objedn              |
-|                                                | atel/příjemce [33]_ |
-+------------------------------------------------+---------------------+
-| **Korporace / Osoba/bytost**                   | **kartograf**       |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost                       | autor textu [34]_   |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost                       | tvůrce výtvarné     |
-|                                                | stránky [35]_       |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost                       | tvůrce technického  |
-|                                                | zpracování [36]_    |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost                       | fotograf            |
-+------------------------------------------------+---------------------+
-| Osoba/bytost                                   | redaktor            |
-+------------------------------------------------+---------------------+
-| Osoba/bytost                                   | editor              |
-+------------------------------------------------+---------------------+
-| Osoba/bytost                                   | kreslič [37]_       |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost                       | výrobce nosiče      |
-|                                                | záznamu [38]_       |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost                       | tiskárna/tiskař     |
-+------------------------------------------------+---------------------+
-| Geografický objekt                             | místo vzniku        |
-|                                                | jednotky popisu     |
-+------------------------------------------------+---------------------+
-| Geografický objekt                             | místo vzniku        |
-|                                                | předlohy popisované |
-|                                                | kopie [39]_         |
-+------------------------------------------------+---------------------+
-| Korporace / Rod/rodina / Osoba/bytost /        | související entita  |
-| Geografický objekt / Událost / Dílo/výtvor /   |                     |
-| Obecný pojem                                   |                     |
-+------------------------------------------------+---------------------+
++------------------------------------------------+--------------------------+
+| **Typy entit**                                 | **Role entit**           |
++------------------------------------------------+--------------------------+
+| **Korporace / Osoba/bytost / Rod/rodina**      | **vydavatel/nakladatel** |
++------------------------------------------------+--------------------------+
+| Korporace / Osoba/bytost / Rod/rodina          | objednatel/příjemce      |
+|                                                | [33]_                    |
++------------------------------------------------+--------------------------+
+| **Korporace / Osoba/bytost**                   | **kartograf**            |
++------------------------------------------------+--------------------------+
+| Korporace / Osoba/bytost                       | autor textu [34]_        |
++------------------------------------------------+--------------------------+
+| Korporace / Osoba/bytost                       | tvůrce výtvarné stránky  |
+|                                                | [35]_                    |
++------------------------------------------------+--------------------------+
+| Korporace / Osoba/bytost                       | tvůrce technického       |
+|                                                | zpracování [36]_         |
++------------------------------------------------+--------------------------+
+| Korporace / Osoba/bytost                       | fotograf                 |
++------------------------------------------------+--------------------------+
+| Osoba/bytost                                   | redaktor                 |
++------------------------------------------------+--------------------------+
+| Osoba/bytost                                   | editor                   |
++------------------------------------------------+--------------------------+
+| Osoba/bytost                                   | kreslič [37]_            |
++------------------------------------------------+--------------------------+
+| Korporace / Osoba/bytost                       | výrobce nosiče záznamu   |
+|                                                | [38]_                    |
++------------------------------------------------+--------------------------+
+| Korporace / Osoba/bytost                       | tiskárna/tiskař          |
++------------------------------------------------+--------------------------+
+| Geografický objekt                             | místo vzniku jednotky    |
+|                                                | popisu                   |
++------------------------------------------------+--------------------------+
+| Geografický objekt                             | místo vzniku předlohy    |
+|                                                | popisované kopie [39]_   |
++------------------------------------------------+--------------------------+
+| Korporace / Rod/rodina / Osoba/bytost /        | související entita       |
+| Geografický objekt / Událost / Dílo/výtvor /   |                          |
+| Obecný pojem                                   |                          |
++------------------------------------------------+--------------------------+
 
 Technické výkresy
 ----------------------
@@ -1186,39 +1177,34 @@ Popisované role entit ve vztahu k technickým výkresům:
 
 Tučně jsou vyznačeny položky povinné i pro I.
 
-+-----------------------------------------------+----------------------+
-| **Typy entit**                                | **Role entit**       |
-+-----------------------------------------------+----------------------+
-| **Korporace / Osoba/bytost / Rod/rodina**     | **objednate          |
-|                                               | l/příjemce**\  [40]_ |
-+-----------------------------------------------+----------------------+
-| **Korporace / Osoba/bytost**                  | **autor**\  [41]_    |
-+-----------------------------------------------+----------------------+
-| Korporace / Osoba/bytost                      | schvalovatel         |
-|                                               | technického          |
-|                                               | výkresu [42]_        |
-+-----------------------------------------------+----------------------+
-| Korporace / Osoba/bytost                      | stavitel [43]_       |
-+-----------------------------------------------+----------------------+
-| Korporace / Osoba/bytost                      | výrobce [44]_        |
-+-----------------------------------------------+----------------------+
-| Osoba/bytost                                  | kreslič [45]_        |
-+-----------------------------------------------+----------------------+
-| Geografický objekt                            | místo vzniku         |
-|                                               | jednotky popisu      |
-+-----------------------------------------------+----------------------+
-| Geografický objekt                            | místo vzniku         |
-|                                               | předlohy popisované  |
-|                                               | kopie [46]_          |
-+-----------------------------------------------+----------------------+
-| Dílo/výtvor                                   | typové označení      |
-|                                               | a název výrobku      |
-|                                               | a typové stavby      |
-+-----------------------------------------------+----------------------+
-| Korporace / Rod/rodina / Osoba/bytost /       | související entita   |
-| Geografický objekt / Událost / Dílo/výtvor /  |                      |
-| Obecný pojem                                  |                      |
-+-----------------------------------------------+----------------------+
++-----------------------------------------------+---------------------------------+
+| **Typy entit**                                | **Role entit**                  |
++-----------------------------------------------+---------------------------------+
+| **Korporace / Osoba/bytost / Rod/rodina**     | **objednatel/příjemce**\  [40]_ |
++-----------------------------------------------+---------------------------------+
+| **Korporace / Osoba/bytost**                  | **autor**\  [41]_               |
++-----------------------------------------------+---------------------------------+
+| Korporace / Osoba/bytost                      | schvalovatel technického        |
+|                                               | výkresu [42]_                   |
++-----------------------------------------------+---------------------------------+
+| Korporace / Osoba/bytost                      | stavitel [43]_                  |
++-----------------------------------------------+---------------------------------+
+| Korporace / Osoba/bytost                      | výrobce [44]_                   |
++-----------------------------------------------+---------------------------------+
+| Osoba/bytost                                  | kreslič [45]_                   |
++-----------------------------------------------+---------------------------------+
+| Geografický objekt                            | místo vzniku jednotky popisu    |
++-----------------------------------------------+---------------------------------+
+| Geografický objekt                            | místo vzniku předlohy           |
+|                                               | popisované kopie [46]_          |
++-----------------------------------------------+---------------------------------+
+| Dílo/výtvor                                   | typové označení a název výrobku |
+|                                               | a typové stavby                 |
++-----------------------------------------------+---------------------------------+
+| Korporace / Rod/rodina / Osoba/bytost /       | související entita              |
+| Geografický objekt / Událost / Dílo/výtvor /  |                                 |
+| Obecný pojem                                  |                                 |
++-----------------------------------------------+---------------------------------+
 
 Grafické listy, kresby
 ---------------------------
@@ -1235,39 +1221,36 @@ Popisované role entit ve vztahu ke grafickým listům a kresbám:
 
 Tučně jsou vyznačeny položky povinné i pro I.
 
-+------------------------------------------------+---------------------+
-| **Typy entit**                                 | **Role entit**      |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost / Rod/rodina          | v                   |
-|                                                | ydavatel/nakladatel |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost / Rod/rodina          | příjemce            |
-+------------------------------------------------+---------------------+
-| **Korporace / Osoba/bytost**                   | **tvůrce výtvarné   |
-|                                                | stránky**\  [47]_   |
-+------------------------------------------------+---------------------+
-| **Korporace / Osoba/bytost**                   | **tvůrce            |
-|                                                | technického         |
-|                                                | z                   |
-|                                                | pracování**\  [48]_ |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost                       | tiskárna/tiskař     |
-+------------------------------------------------+---------------------+
-| Geografický objekt                             | místo vzniku        |
-|                                                | jednotky popisu     |
-+------------------------------------------------+---------------------+
-| Geografický objekt                             | místo vzniku        |
-|                                                | předlohy popisované |
-|                                                | kopie [49]_         |
-+------------------------------------------------+---------------------+
-| Korporace / Rod/rodina / Osoba/bytost /        | obrazově a/nebo     |
-| Geografický objekt / Událost / Dílo/výtvor /   | zvukově zachycená   |
-| Obecný pojem                                   | entita              |
-+------------------------------------------------+---------------------+
-| Korporace / Rod/rodina / Osoba/bytost /        | související entita  |
-| Geografický objekt / Událost / Dílo/výtvor /   |                     |
-| Obecný pojem                                   |                     |
-+------------------------------------------------+---------------------+
++------------------------------------------------+----------------------+
+| **Typy entit**                                 | **Role entit**       |
++------------------------------------------------+----------------------+
+| Korporace / Osoba/bytost / Rod/rodina          | vydavatel/nakladatel |
++------------------------------------------------+----------------------+
+| Korporace / Osoba/bytost / Rod/rodina          | příjemce             |
++------------------------------------------------+----------------------+
+| **Korporace / Osoba/bytost**                   | **tvůrce výtvarné    |
+|                                                | stránky**\  [47]_    |
++------------------------------------------------+----------------------+
+| **Korporace / Osoba/bytost**                   | **tvůrce technického |
+|                                                | zpracování**\  [48]_ |
++------------------------------------------------+----------------------+
+| Korporace / Osoba/bytost                       | tiskárna/tiskař      |
++------------------------------------------------+----------------------+
+| Geografický objekt                             | místo vzniku         |
+|                                                | jednotky popisu      |
++------------------------------------------------+----------------------+
+| Geografický objekt                             | místo vzniku         |
+|                                                | předlohy popisované  |
+|                                                | kopie [49]_          |
++------------------------------------------------+----------------------+
+| Korporace / Rod/rodina / Osoba/bytost /        | obrazově a/nebo      |
+| Geografický objekt / Událost / Dílo/výtvor /   | zvukově zachycená    |
+| Obecný pojem                                   | entita               |
++------------------------------------------------+----------------------+
+| Korporace / Rod/rodina / Osoba/bytost /        | související entita   |
+| Geografický objekt / Událost / Dílo/výtvor /   |                      |
+| Obecný pojem                                   |                      |
++------------------------------------------------+----------------------+
 
 Pro popis vedut platí pravidla celostátního Soupisu vedut vzniklých do
 roku 1850. Převodník prvků je uveden **v příloze č. 5** (viz soubor
@@ -1283,35 +1266,32 @@ Tučně jsou vyznačeny položky povinné i pro I. Tato povinnost v rámci
 inventáře neplatí pro fotoalba, pokud jejich popis není rozepsán na
 jednotlivé fotografie.
 
-+-------------------------------------------------+--------------------+
-| **Typy entit**                                  | **Role entit**     |
-+-------------------------------------------------+--------------------+
-| **Korporace / Osoba/bytost**                    | **                 |
-|                                                 | fotograf**\  [50]_ |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost / Rod/rodina           | příjemce [51]_     |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost / Rod/rodina           | odesílatel [52]_   |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | výrobce nosiče     |
-|                                                 | záznamu [53]_      |
-+-------------------------------------------------+--------------------+
-| **Geografický objekt**                          | **místo            |
-|                                                 | fotog              |
-|                                                 | rafování**\  [54]_ |
-+-------------------------------------------------+--------------------+
-| Korporace / Rod/rodina / Osoba/bytost /         | obrazově a/nebo    |
-| Geografický objekt / Událost / Dílo/výtvor /    | zvukově zachycená  |
-| Obecný pojem                                    | entita             |
-+-------------------------------------------------+--------------------+
-| Geografický objekt                              | místo vzniku       |
-|                                                 | jednotky           |
-|                                                 | popisu [55]_       |
-+-------------------------------------------------+--------------------+
-| Korporace / Rod/rodina / Osoba/bytost /         | související entita |
-| Geografický objekt / Událost / Dílo/výtvor /    |                    |
-| Obecný pojem                                    |                    |
-+-------------------------------------------------+--------------------+
++-------------------------------------------------+-------------------------+
+| **Typy entit**                                  | **Role entit**          |
++-------------------------------------------------+-------------------------+
+| **Korporace / Osoba/bytost**                    | ** fotograf**\  [50]_   |
++-------------------------------------------------+-------------------------+
+| Korporace / Osoba/bytost / Rod/rodina           | příjemce [51]_          |
++-------------------------------------------------+-------------------------+
+| Korporace / Osoba/bytost / Rod/rodina           | odesílatel [52]_        |
++-------------------------------------------------+-------------------------+
+| Korporace / Osoba/bytost                        | výrobce nosiče záznamu  |
+|                                                 | [53]_                   |
++-------------------------------------------------+-------------------------+
+| **Geografický objekt**                          | **místo                 |
+|                                                 | fotografování**\  [54]_ |
++-------------------------------------------------+-------------------------+
+| Korporace / Rod/rodina / Osoba/bytost /         | obrazově a/nebo zvukově |
+| Geografický objekt / Událost / Dílo/výtvor /    | zachycená entita        |
+| Obecný pojem                                    |                         |
++-------------------------------------------------+-------------------------+
+| Geografický objekt                              | místo vzniku jednotky   |
+|                                                 | popisu [55]_            |
++-------------------------------------------------+-------------------------+
+| Korporace / Rod/rodina / Osoba/bytost /         | související entita      |
+| Geografický objekt / Událost / Dílo/výtvor /    |                         |
+| Obecný pojem                                    |                         |
++-------------------------------------------------+-------------------------+
 
 Kinematografické filmy
 ---------------------------
@@ -1331,83 +1311,72 @@ Popisované role entit ve vztahu ke kinematografickým filmům:
 
 Tučně jsou vyznačeny položky povinné i pro I.
 
-+-------------------------------------------------+--------------------+
-| **Typy entit**                                  | **Role entit**     |
-+-------------------------------------------------+--------------------+
-| **Korporace / Osoba/bytost / Rod/rodina**       | **produkční        |
-|                                                 | společnost/p       |
-|                                                 | roducent**\  [56]_ |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost / Rod/rodina           | objedna            |
-|                                                 | tel/příjemce [57]_ |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | distributor        |
-+-------------------------------------------------+--------------------+
-| **Osoba/bytost**                                | **režisér**        |
-+-------------------------------------------------+--------------------+
-| **Osoba/bytost**                                | **scénárista**     |
-+-------------------------------------------------+--------------------+
-| **Osoba/bytost**                                | **kameraman**      |
-+-------------------------------------------------+--------------------+
-| **Korporace / Osoba/bytost**                    | **autor námětu**   |
-+-------------------------------------------------+--------------------+
-| **Korporace / Osoba/bytost**                    | **autor dialogu**  |
-+-------------------------------------------------+--------------------+
-| **Korporace / Osoba/bytost**                    | **autor            |
-|                                                 | hudby/s            |
-|                                                 | kladatel**\  [58]_ |
-+-------------------------------------------------+--------------------+
-| **Korporace / Osoba/bytost**                    | **autor textové    |
-|                                                 | složky/textař**    |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | autor komentáře    |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | autor              |
-|                                                 | chore              |
-|                                                 | ografie/choreograf |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | autor triků        |
-|                                                 | a speciálních      |
-|                                                 | efektů             |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost / Rod/rodina           | interpret          |
-|                                                 | hudby [59]_        |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | tvůrce výtvarné    |
-|                                                 | stránky [60]_      |
-+-------------------------------------------------+--------------------+
-| Osoba/bytost                                    | dramaturg          |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | odborná spolupráce |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | střih/střihač      |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | zvuk/zvukař        |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost / Rod/rodina           | účinkující [61]_   |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | překladatel        |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | zpracovatel nosiče |
-|                                                 | záznamu [62]_      |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | výrobce nosiče     |
-|                                                 | záznamu [63]_      |
-+-------------------------------------------------+--------------------+
-| Geografický objekt                              | místo              |
-|                                                 | natáčení [64]_     |
-+-------------------------------------------------+--------------------+
-| Korporace / Rod/rodina / Osoba/bytost /         | obrazově a/nebo    |
-| Geografický objekt / Událost / Dílo/výtvor /    | zvukově zachycená  |
-| Obecný pojem                                    | entita             |
-+-------------------------------------------------+--------------------+
-| Geografický objekt                              | místo výroby       |
-|                                                 | jednotky popisu    |
-+-------------------------------------------------+--------------------+
-| Korporace / Rod/rodina / Osoba/bytost /         | související entita |
-| Geografický objekt / Událost / Dílo/výtvor /    |                    |
-| Obecný pojem                                    |                    |
-+-------------------------------------------------+--------------------+
++-------------------------------------------------+--------------------------------+
+| **Typy entit**                                  | **Role entit**                 |
++-------------------------------------------------+--------------------------------+
+| **Korporace / Osoba/bytost / Rod/rodina**       | **produkční                    |
+|                                                 | společnost/producent**\  [56]_ |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost / Rod/rodina           | objednatel/příjemce [57]_      |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | distributor                    |
++-------------------------------------------------+--------------------------------+
+| **Osoba/bytost**                                | **režisér**                    |
++-------------------------------------------------+--------------------------------+
+| **Osoba/bytost**                                | **scénárista**                 |
++-------------------------------------------------+--------------------------------+
+| **Osoba/bytost**                                | **kameraman**                  |
++-------------------------------------------------+--------------------------------+
+| **Korporace / Osoba/bytost**                    | **autor námětu**               |
++-------------------------------------------------+--------------------------------+
+| **Korporace / Osoba/bytost**                    | **autor dialogu**              |
++-------------------------------------------------+--------------------------------+
+| **Korporace / Osoba/bytost**                    | **autor                        |
+|                                                 | hudby/skladatel**\  [58]_      |
++-------------------------------------------------+--------------------------------+
+| **Korporace / Osoba/bytost**                    | **autor textové                |
+|                                                 | složky/textař**                |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | autor komentáře                |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | autor choreografie/choreograf  |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | autor triků a speciálních      |
+|                                                 | efektů                         |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost / Rod/rodina           | interpret hudby [59]_          |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | tvůrce výtvarné stránky [60]_  |
++-------------------------------------------------+--------------------------------+
+| Osoba/bytost                                    | dramaturg                      |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | odborná spolupráce             |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | střih/střihač                  |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | zvuk/zvukař                    |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost / Rod/rodina           | účinkující [61]_               |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | překladatel                    |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | zpracovatel nosiče záznamu     |
+|                                                 | [62]_                          |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | výrobce nosiče záznamu [63]_   |
++-------------------------------------------------+--------------------------------+
+| Geografický objekt                              | místo natáčení [64]_           |
++-------------------------------------------------+--------------------------------+
+| Korporace / Rod/rodina / Osoba/bytost /         | obrazově a/nebo zvukově        |
+| Geografický objekt / Událost / Dílo/výtvor /    | zachycená entita               |
+| Obecný pojem                                    |                                |
++-------------------------------------------------+--------------------------------+
+| Geografický objekt                              | místo výroby jednotky popisu   |
++-------------------------------------------------+--------------------------------+
+| Korporace / Rod/rodina / Osoba/bytost /         | související entita             |
+| Geografický objekt / Událost / Dílo/výtvor /    |                                |
+| Obecný pojem                                    |                                |
++-------------------------------------------------+--------------------------------+
 
 Zvukové archiválie
 -----------------------
@@ -1424,75 +1393,66 @@ Popisované role entit ve vztahu ke zvukovým archiváliím:
 
 Tučně jsou vyznačeny položky povinné i pro I.
 
-+-------------------------------------------------+--------------------+
-| **Typy entit**                                  | **Role entit**     |
-+-------------------------------------------------+--------------------+
-| **Korporace / Osoba/bytost / Rod/rodina**       | **produkční        |
-|                                                 | společnost/p       |
-|                                                 | roducent**\  [65]_ |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost / Rod/rodina           | objedna            |
-|                                                 | tel/příjemce [66]_ |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | distributor        |
-+-------------------------------------------------+--------------------+
-| **Osoba/bytost**                                | **režisér**        |
-+-------------------------------------------------+--------------------+
-| **Osoba/bytost**                                | **scénárista**     |
-+-------------------------------------------------+--------------------+
-| **Korporace / Osoba/bytost**                    | **autor námětu**   |
-+-------------------------------------------------+--------------------+
-| **Korporace / Osoba/bytost**                    | **autor dialogu**  |
-+-------------------------------------------------+--------------------+
-| **Korporace / Osoba/bytost**                    | **autor            |
-|                                                 | hudby/s            |
-|                                                 | kladatel**\  [67]_ |
-+-------------------------------------------------+--------------------+
-| **Korporace / Osoba/bytost**                    | **autor textové    |
-|                                                 | složky/textař**    |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | autor komentáře    |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | autor triků        |
-|                                                 | a speciálních      |
-|                                                 | efektů             |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost / Rod/rodina           | interpret          |
-|                                                 | hudby [68]_        |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | tvůrce výtvarné    |
-|                                                 | stránky [69]_      |
-+-------------------------------------------------+--------------------+
-| Osoba/bytost                                    | dramaturg          |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | střih/střihač      |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | zvuk/zvukař        |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost / Rod/rodina           | účinkující [70]_   |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | překladatel        |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | zpracovatel nosiče |
-|                                                 | záznamu [71]_      |
-+-------------------------------------------------+--------------------+
-| Korporace / Osoba/bytost                        | výrobce nosiče     |
-|                                                 | záznamu [72]_      |
-+-------------------------------------------------+--------------------+
-| Geografický objekt                              | místo              |
-|                                                 | natáčení [73]_     |
-+-------------------------------------------------+--------------------+
-| Korporace / Rod/rodina / Osoba/bytost /         | obrazově a/nebo    |
-| Geografický objekt / Událost / Dílo/výtvor /    | zvukově zachycená  |
-| Obecný pojem                                    | entita             |
-+-------------------------------------------------+--------------------+
-| Geografický objekt                              | místo výroby       |
-|                                                 | jednotky popisu    |
-+-------------------------------------------------+--------------------+
-| Korporace / Rod/rodina / Osoba/bytost /         | související entita |
-| Geografický objekt / Událost / Dílo/výtvor /    |                    |
-| Obecný pojem                                    |                    |
-+-------------------------------------------------+--------------------+
++-------------------------------------------------+--------------------------------+
+| **Typy entit**                                  | **Role entit**                 |
++-------------------------------------------------+--------------------------------+
+| **Korporace / Osoba/bytost / Rod/rodina**       | **produkční                    |
+|                                                 | společnost/producent**\  [65]_ |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost / Rod/rodina           | objednatel/příjemce [66]_      |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | distributor                    |
++-------------------------------------------------+--------------------------------+
+| **Osoba/bytost**                                | **režisér**                    |
++-------------------------------------------------+--------------------------------+
+| **Osoba/bytost**                                | **scénárista**                 |
++-------------------------------------------------+--------------------------------+
+| **Korporace / Osoba/bytost**                    | **autor námětu**               |
++-------------------------------------------------+--------------------------------+
+| **Korporace / Osoba/bytost**                    | **autor dialogu**              |
++-------------------------------------------------+--------------------------------+
+| **Korporace / Osoba/bytost**                    | **autor                        |
+|                                                 | hudby/skladatel**\  [67]_      |
++-------------------------------------------------+--------------------------------+
+| **Korporace / Osoba/bytost**                    | **autor textové                |
+|                                                 | složky/textař**                |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | autor komentáře                |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | autor triků a speciálních      |
+|                                                 | efektů                         |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost / Rod/rodina           | interpret hudby [68]_          |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | tvůrce výtvarné stránky [69]_  |
++-------------------------------------------------+--------------------------------+
+| Osoba/bytost                                    | dramaturg                      |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | střih/střihač                  |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | zvuk/zvukař                    |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost / Rod/rodina           | účinkující [70]_               |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | překladatel                    |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | zpracovatel nosiče záznamu     |
+|                                                 | [71]_                          |
++-------------------------------------------------+--------------------------------+
+| Korporace / Osoba/bytost                        | výrobce nosiče záznamu [72]_   |
++-------------------------------------------------+--------------------------------+
+| Geografický objekt                              | místo natáčení [73]_           |
++-------------------------------------------------+--------------------------------+
+| Korporace / Rod/rodina / Osoba/bytost /         | obrazově a/nebo zvukově        |
+| Geografický objekt / Událost / Dílo/výtvor /    | zachycená entita               |
+| Obecný pojem                                    |                                |
++-------------------------------------------------+--------------------------------+
+| Geografický objekt                              | místo výroby jednotky popisu   |
++-------------------------------------------------+--------------------------------+
+| Korporace / Rod/rodina / Osoba/bytost /         | související entita             |
+| Geografický objekt / Událost / Dílo/výtvor /    |                                |
+| Obecný pojem                                    |                                |
++-------------------------------------------------+--------------------------------+
 
 Tisky do roku 1800 a po roce 1800
 --------------------------------------
@@ -1502,49 +1462,47 @@ Popisované role entit ve vztahu k tiskům do roku 1800 a po roce 1800:
 
 Tučně jsou vyznačeny položky povinné i pro I.
 
-+----------------------------------------------+-----------------------+
-| **Typy entit**                               | **Role                |
-|                                              | entit**\  [74]_       |
-+----------------------------------------------+-----------------------+
-| **Korporace / Osoba/bytost / Rod/rodina**    | **v                   |
-|                                              | ydavatel/nakladatel** |
-+----------------------------------------------+-----------------------+
-| Korporace / Osoba/bytost / Rod/rodina        | příjemce [75]_        |
-+----------------------------------------------+-----------------------+
-| Korporace / Osoba/bytost / Rod/rodina        | vlastník [76]_        |
-+----------------------------------------------+-----------------------+
-| **Korporace / Osoba/bytost**                 | **autor textu**       |
-+----------------------------------------------+-----------------------+
-| Korporace / Osoba/bytost                     | tvůrce výtvarné       |
-|                                              | stránky [77]_         |
-+----------------------------------------------+-----------------------+
-| Korporace / Osoba/bytost                     | fotograf              |
-+----------------------------------------------+-----------------------+
-| Korporace / Osoba/bytost                     | kartograf             |
-+----------------------------------------------+-----------------------+
-| Osoba/bytost                                 | redaktor              |
-+----------------------------------------------+-----------------------+
-| Osoba/bytost                                 | editor                |
-+----------------------------------------------+-----------------------+
-| Osoba/bytost                                 | překladatel           |
-+----------------------------------------------+-----------------------+
-| Osoba/bytost                                 | lektor                |
-+----------------------------------------------+-----------------------+
-| Korporace / Osoba/bytost                     | výrobce nosiče        |
-|                                              | záznamu [78]_         |
-+----------------------------------------------+-----------------------+
-| Korporace / Osoba/bytost                     | tiskárna/tiskař       |
-+----------------------------------------------+-----------------------+
-| **Geografický objekt**                       | **místo vydání**      |
-+----------------------------------------------+-----------------------+
-| **Geografický objekt**                       | **místo vzniku        |
-|                                              | předlohy popisované   |
-|                                              | kopie**\  [79]_       |
-+----------------------------------------------+-----------------------+
-| Korporace / Rod/rodina / Osoba/bytost /      | související entita    |
-| Geografický objekt / Událost / Dílo/výtvor / |                       |
-| Obecný pojem                                 |                       |
-+----------------------------------------------+-----------------------+
++----------------------------------------------+--------------------------+
+| **Typy entit**                               | **Role entit**\  [74]_   |
++----------------------------------------------+--------------------------+
+| **Korporace / Osoba/bytost / Rod/rodina**    | **vydavatel/nakladatel** |
++----------------------------------------------+--------------------------+
+| Korporace / Osoba/bytost / Rod/rodina        | příjemce [75]_           |
++----------------------------------------------+--------------------------+
+| Korporace / Osoba/bytost / Rod/rodina        | vlastník [76]_           |
++----------------------------------------------+--------------------------+
+| **Korporace / Osoba/bytost**                 | **autor textu**          |
++----------------------------------------------+--------------------------+
+| Korporace / Osoba/bytost                     | tvůrce výtvarné stránky  |
+|                                              | [77]_                    |
++----------------------------------------------+--------------------------+
+| Korporace / Osoba/bytost                     | fotograf                 |
++----------------------------------------------+--------------------------+
+| Korporace / Osoba/bytost                     | kartograf                |
++----------------------------------------------+--------------------------+
+| Osoba/bytost                                 | redaktor                 |
++----------------------------------------------+--------------------------+
+| Osoba/bytost                                 | editor                   |
++----------------------------------------------+--------------------------+
+| Osoba/bytost                                 | překladatel              |
++----------------------------------------------+--------------------------+
+| Osoba/bytost                                 | lektor                   |
++----------------------------------------------+--------------------------+
+| Korporace / Osoba/bytost                     | výrobce nosiče záznamu   |
+|                                              | [78]_                    |
++----------------------------------------------+--------------------------+
+| Korporace / Osoba/bytost                     | tiskárna/tiskař          |
++----------------------------------------------+--------------------------+
+| **Geografický objekt**                       | **místo vydání**         |
++----------------------------------------------+--------------------------+
+| **Geografický objekt**                       | **místo vzniku předlohy  |
+|                                              | popisované               |
+|                                              | kopie**\  [79]_          |
++----------------------------------------------+--------------------------+
+| Korporace / Rod/rodina / Osoba/bytost /      | související entita       |
+| Geografický objekt / Událost / Dílo/výtvor / |                          |
+| Obecný pojem                                 |                          |
++----------------------------------------------+--------------------------+
 
 Pohlednice
 ---------------
@@ -1593,35 +1551,34 @@ Popisované role entit ve vztahu k plakátům:
 
 Všechny uvedené prvky jsou povinné pouze pro K.
 
-+------------------------------------------------+---------------------+
-| **Typy entit**                                 | **Role entit**      |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost / Rod/rodina          | v                   |
-|                                                | ydavatel/nakladatel |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost                       | autor textu         |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost                       | tvůrce výtvarné     |
-|                                                | stránky             |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost                       | fotograf            |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost                       | tiskárna/tiskař     |
-+------------------------------------------------+---------------------+
-| Geografický objekt                             | místo vydání        |
-+------------------------------------------------+---------------------+
-| Geografický objekt                             | místo vzniku        |
-|                                                | předlohy popisované |
-|                                                | kopie [83]_         |
-+------------------------------------------------+---------------------+
-| Korporace / Rod/rodina / Osoba/bytost /        | obrazově a/nebo     |
-| Geografický objekt / Událost / Dílo/výtvor /   | zvukově zachycená   |
-| Obecný pojem                                   | entita              |
-+------------------------------------------------+---------------------+
-| Korporace / Rod/rodina / Osoba/bytost /        | související entita  |
-| Geografický objekt / Událost / Dílo/výtvor /   |                     |
-| Obecný pojem                                   |                     |
-+------------------------------------------------+---------------------+
++------------------------------------------------+----------------------+
+| **Typy entit**                                 | **Role entit**       |
++------------------------------------------------+----------------------+
+| Korporace / Osoba/bytost / Rod/rodina          | vydavatel/nakladatel |
++------------------------------------------------+----------------------+
+| Korporace / Osoba/bytost                       | autor textu          |
++------------------------------------------------+----------------------+
+| Korporace / Osoba/bytost                       | tvůrce výtvarné      |
+|                                                | stránky              |
++------------------------------------------------+----------------------+
+| Korporace / Osoba/bytost                       | fotograf             |
++------------------------------------------------+----------------------+
+| Korporace / Osoba/bytost                       | tiskárna/tiskař      |
++------------------------------------------------+----------------------+
+| Geografický objekt                             | místo vydání         |
++------------------------------------------------+----------------------+
+| Geografický objekt                             | místo vzniku         |
+|                                                | předlohy popisované  |
+|                                                | kopie [83]_          |
++------------------------------------------------+----------------------+
+| Korporace / Rod/rodina / Osoba/bytost /        | obrazově a/nebo      |
+| Geografický objekt / Událost / Dílo/výtvor /   | zvukově zachycená    |
+| Obecný pojem                                   | entita               |
++------------------------------------------------+----------------------+
+| Korporace / Rod/rodina / Osoba/bytost /        | související entita   |
+| Geografický objekt / Událost / Dílo/výtvor /   |                      |
+| Obecný pojem                                   |                      |
++------------------------------------------------+----------------------+
 
 Cenné papíry
 -----------------
@@ -1663,32 +1620,31 @@ Popisované role entit ve vztahu ke štočkům:
 
 Tučně je vyznačena položka povinná i pro I.
 
-+------------------------------------------------+---------------------+
-| **Typy entit**                                 | **Role entit**      |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost / Rod/rodina          | v                   |
-|                                                | ydavatel/nakladatel |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost                       | autor textu         |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost                       | tvůrce výtvarné     |
-|                                                | stránky             |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost                       | fotograf            |
-+------------------------------------------------+---------------------+
-| Korporace / Osoba/bytost                       | kartograf           |
-+------------------------------------------------+---------------------+
-| Geografický objekt                             | místo vzniku        |
-|                                                | jednotky popisu     |
-+------------------------------------------------+---------------------+
-| Geografický objekt                             | místo vzniku        |
-|                                                | předlohy popisované |
-|                                                | kopie [85]_         |
-+------------------------------------------------+---------------------+
-| **Korporace / Rod/rodina / Osoba/bytost /      | **související       |
-| Geografický objekt / Událost / Dílo/výtvor /   | entita**\  [86]_    |
-| Obecný pojem**                                 |                     |
-+------------------------------------------------+---------------------+
++------------------------------------------------+----------------------+
+| **Typy entit**                                 | **Role entit**       |
++------------------------------------------------+----------------------+
+| Korporace / Osoba/bytost / Rod/rodina          | vydavatel/nakladatel |
++------------------------------------------------+----------------------+
+| Korporace / Osoba/bytost                       | autor textu          |
++------------------------------------------------+----------------------+
+| Korporace / Osoba/bytost                       | tvůrce výtvarné      |
+|                                                | stránky              |
++------------------------------------------------+----------------------+
+| Korporace / Osoba/bytost                       | fotograf             |
++------------------------------------------------+----------------------+
+| Korporace / Osoba/bytost                       | kartograf            |
++------------------------------------------------+----------------------+
+| Geografický objekt                             | místo vzniku         |
+|                                                | jednotky popisu      |
++------------------------------------------------+----------------------+
+| Geografický objekt                             | místo vzniku         |
+|                                                | předlohy popisované  |
+|                                                | kopie [85]_          |
++------------------------------------------------+----------------------+
+| **Korporace / Rod/rodina / Osoba/bytost /      | **související        |
+| Geografický objekt / Událost / Dílo/výtvor /   | entita**\  [86]_     |
+| Obecný pojem**                                 |                      |
++------------------------------------------------+----------------------+
 
 Digitální archivní jednotky
 --------------------------------
@@ -1698,14 +1654,13 @@ Popisované role entit ve vztahu k digitálním archivním jednotkám:
 
 Prvek je povinný pouze pro archivní pomůcku K.
 
-+----------------------------------------------------------+-----------+
-| **Typy entit**                                           | **Role    |
-|                                                          | entit**   |
-+----------------------------------------------------------+-----------+
-| Korporace / Rod/rodina / Osoba/bytost / Geografický      | so        |
-| objekt / Událost / Dílo/výtvor / Obecný pojem            | uvisející |
-|                                                          | entita    |
-+----------------------------------------------------------+-----------+
++----------------------------------------------------------+-------------+
+| **Typy entit**                                           | **Role      |
+|                                                          | entit**     |
++----------------------------------------------------------+-------------+
+| Korporace / Rod/rodina / Osoba/bytost / Geografický      | související |
+| objekt / Událost / Dílo/výtvor / Obecný pojem            | entita      |
++----------------------------------------------------------+-------------+
 
 Numizmatické předměty
 --------------------------
@@ -1749,40 +1704,38 @@ Popisované role entit ve vztahu k faleristickým předmětům:
 
 Tučně jsou vyznačeny položky povinné i pro I.
 
-+--------------------------------------------------+-------------------+
-| **Typy entit**                                   | **Role entit**    |
-+--------------------------------------------------+-------------------+
-| **Korporace / Osoba/bytost / Rod/rodina**        | **vy              |
-|                                                  | davatel**\  [88]_ |
-+--------------------------------------------------+-------------------+
-| Korporace / Osoba/bytost / Rod/rodina            | příjemce          |
-+--------------------------------------------------+-------------------+
-| Korporace / Osoba/bytost / Rod/rodina            | nositel           |
-|                                                  | vyznamenání/ceny  |
-+--------------------------------------------------+-------------------+
-| Korporace / Osoba/bytost                         | tvůrce výtvarné   |
-|                                                  | stránky           |
-+--------------------------------------------------+-------------------+
-| Korporace / Osoba/bytost                         | výrobce           |
-+--------------------------------------------------+-------------------+
-| Korporace / Osoba/bytost                         | předávající       |
-|                                                  | vyznamenání/ceny  |
-+--------------------------------------------------+-------------------+
-| Korporace / Osoba/bytost / Rod/rodina            | navrhovatel       |
-|                                                  | vyznamenání/ceny  |
-+--------------------------------------------------+-------------------+
-| Geografický objekt                               | místo vydavatele  |
-+--------------------------------------------------+-------------------+
-| Geografický objekt                               | místo předání     |
-+--------------------------------------------------+-------------------+
-| Geografický objekt                               | místo vzniku      |
-|                                                  | předlohy          |
-|                                                  | popisované kopie  |
-+--------------------------------------------------+-------------------+
-| Korporace / Rod/rodina / Osoba/bytost /          | související       |
-| Geografický objekt / Událost / Dílo/výtvor /     | entita            |
-| Obecný pojem                                     |                   |
-+--------------------------------------------------+-------------------+
++--------------------------------------------------+-----------------------+
+| **Typy entit**                                   | **Role entit**        |
++--------------------------------------------------+-----------------------+
+| **Korporace / Osoba/bytost / Rod/rodina**        | **vydavatel**\  [88]_ |
++--------------------------------------------------+-----------------------+
+| Korporace / Osoba/bytost / Rod/rodina            | příjemce              |
++--------------------------------------------------+-----------------------+
+| Korporace / Osoba/bytost / Rod/rodina            | nositel               |
+|                                                  | vyznamenání/ceny      |
++--------------------------------------------------+-----------------------+
+| Korporace / Osoba/bytost                         | tvůrce výtvarné       |
+|                                                  | stránky               |
++--------------------------------------------------+-----------------------+
+| Korporace / Osoba/bytost                         | výrobce               |
++--------------------------------------------------+-----------------------+
+| Korporace / Osoba/bytost                         | předávající           |
+|                                                  | vyznamenání/ceny      |
++--------------------------------------------------+-----------------------+
+| Korporace / Osoba/bytost / Rod/rodina            | navrhovatel           |
+|                                                  | vyznamenání/ceny      |
++--------------------------------------------------+-----------------------+
+| Geografický objekt                               | místo vydavatele      |
++--------------------------------------------------+-----------------------+
+| Geografický objekt                               | místo předání         |
++--------------------------------------------------+-----------------------+
+| Geografický objekt                               | místo vzniku předlohy |
+|                                                  | popisované kopie      |
++--------------------------------------------------+-----------------------+
+| Korporace / Rod/rodina / Osoba/bytost /          | související entita    |
+| Geografický objekt / Událost / Dílo/výtvor /     |                       |
+| Obecný pojem                                     |                       |
++--------------------------------------------------+-----------------------+
 
 Jiné
 ---------
@@ -1792,14 +1745,13 @@ Popisované role entit ve vztahu k evidenční jednotce Jiné:
 
 Prvek je povinný pouze pro archivní pomůcku K.
 
-+----------------------------------------------------------+-----------+
-| **Typy entit**                                           | **Role    |
-|                                                          | entit**   |
-+----------------------------------------------------------+-----------+
-| Korporace / Rod/rodina / Osoba/bytost / Geografický      | so        |
-| objekt / Událost / Dílo/výtvor / Obecný pojem            | uvisející |
-|                                                          | entita    |
-+----------------------------------------------------------+-----------+
++----------------------------------------------------------+-------------+
+| **Typy entit**                                           | **Role      |
+|                                                          | entit**     |
++----------------------------------------------------------+-------------+
+| Korporace / Rod/rodina / Osoba/bytost / Geografický      | související |
+| objekt / Událost / Dílo/výtvor / Obecný pojem            | entita      |
++----------------------------------------------------------+-------------+
 
 .. [1]
    U otisků razítek a slepotisků to platí přiměřeně k významu dokumentu

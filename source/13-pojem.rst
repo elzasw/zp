@@ -281,9 +281,6 @@ vlastními jmény); uvádí se v množném čísle.
 Nepojmenované objekty, které jsou výsledkem lidské činnosti; uvádí se
 obvykle v množném čísle.
 
-| \*\*
-| \*\*
-
    **Příklady PREF:**
 
    **knihy** *(publikace)*
@@ -467,9 +464,6 @@ autorských děl, kterými byly definovány.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Uvádí se v jednotném čísle.
-
-| \*\*
-| \*\*
 
    **Příklady PREF:**
 
@@ -839,9 +833,6 @@ jen „záznam“) autora/tvůrce obecného pojmu,
 
 b) dokument (vztah) – vazba na záznam dokumentu, který se týká počátku
 platnosti.
-
-| \*\*
-| \*\*
 
    **Příklady:**
 
