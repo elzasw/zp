@@ -33,6 +33,7 @@ e) sídla a území vystupující v popisu jako geografický objekt (například
    (např. magistrát, městský úřad).
 
 .. _zp-09-korporace-podtridy:
+
 Podtřídy korporací
 ----------------------
 

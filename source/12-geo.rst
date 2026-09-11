@@ -743,6 +743,7 @@ Pro každý typ doplňku existuje samostatný prvek popisu.
 Typy doplňků a jejich pořadí:
 
 .. _zp-12-geo-obecnydoplnek:
+
 1. Obecný doplněk
 ********************************                 
 
@@ -753,6 +754,7 @@ se neuvádí.
 objektu – **viz přílohu č. 10**.
 
 .. _zp-12-geo-geodoplnek:
+
 2. Geografický doplněk
 **************************************
                    
@@ -880,6 +882,7 @@ následovanou mezerou.
 Dále **viz přílohu č. 10**.
 
 .. _zp-12-geo-chronodoplnek:
+
 3. Chronologický doplněk
 **********************************************                        
 
